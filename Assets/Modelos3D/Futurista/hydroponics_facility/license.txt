@@ -1,0 +1,11 @@
+Model Information:
+* title:	Hydroponics Facility
+* source:	https://sketchfab.com/3d-models/hydroponics-facility-6d8d8bad7fb34fcca373805184672e89
+* author:	TooManyDemons (https://sketchfab.com/toomanydemons)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Hydroponics Facility" (https://sketchfab.com/3d-models/hydroponics-facility-6d8d8bad7fb34fcca373805184672e89) by TooManyDemons (https://sketchfab.com/toomanydemons) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
