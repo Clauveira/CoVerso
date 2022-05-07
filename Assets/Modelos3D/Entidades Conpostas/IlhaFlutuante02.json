@@ -1,0 +1,543 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{2b348bba-3a33-4140-9007-74d81732f698}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(2)",
+    "position": {
+        "x": 29.325885772705078,
+        "y": -3.5289840698242188,
+        "z": 36.31407165527344
+    },
+    "dimensions": {
+        "x": 15.084027290344238,
+        "y": 1.9132556915283203,
+        "z": 6.803980827331543
+    },
+    "rotation": {
+        "x": 0.044449567794799805,
+        "y": 0.6984206438064575,
+        "z": 0.7137101888656616,
+        "w": 0.028427600860595703
+    },
+    "created": 1651934110457124,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 9.270827293395996,
+        "y": 42.37340545654297,
+        "z": -286.2418212890625,
+        "scale": 16.657808303833008
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/bridge-wood-2/baked/bridge-wood-2.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{9562a8d1-657b-4ec3-84f9-345c6529fac9}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(2)",
+    "position": {
+        "x": 31.462512969970703,
+        "y": 32.346046447753906,
+        "z": 38.397987365722656
+    },
+    "dimensions": {
+        "x": 14.809853553771973,
+        "y": 3.6995387077331543,
+        "z": 7.14846658706665
+    },
+    "rotation": {
+        "x": 0.7036392688751221,
+        "y": 0.07374680042266846,
+        "z": 0.07258713245391846,
+        "w": 0.7029373645782471
+    },
+    "created": 1651934110457862,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 43.823211669921875,
+        "y": 44.22975540161133,
+        "z": -295.9040222167969,
+        "scale": 16.85582733154297
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/bridge-wood-2/baked/bridge-wood-2.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8d847244-1e7e-4b57-850b-9320f8e49750}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(4)",
+    "position": {
+        "x": 66.94401550292969,
+        "y": 17.60242462158203,
+        "z": 37.44737243652344
+    },
+    "dimensions": {
+        "x": 16.53209114074707,
+        "y": 1.9132556915283203,
+        "z": 7.14846658706665
+    },
+    "rotation": {
+        "x": 0.49648284912109375,
+        "y": 0.5139086246490479,
+        "z": 0.528770923614502,
+        "w": 0.457969069480896
+    },
+    "created": 1651934110272743,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 40.688941955566406,
+        "y": 42.765830993652344,
+        "z": -258.1875305175781,
+        "scale": 18.112735748291016
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/bridge-wood-2/baked/bridge-wood-2.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f68bf6f2-810c-4c3e-ba93-73bd04d99625}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "position": {
+        "x": 63.306636810302734,
+        "y": -8.756254196166992,
+        "z": 38.021270751953125
+    },
+    "dimensions": {
+        "x": 19.638221740722656,
+        "y": 11.994144439697266,
+        "z": 13.611183166503906
+    },
+    "rotation": {
+        "x": -0.2718700170516968,
+        "y": 0.5585869550704956,
+        "z": 0.7323873043060303,
+        "w": -0.27870601415634155
+    },
+    "created": 1651931438447221,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 10.256781578063965,
+        "y": 39.11934280395508,
+        "z": -257.435302734375,
+        "scale": 26.735437393188477
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/tree-thorn-GB/baked/tree-thorn-GB.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0a493a44-8e50-4d1f-8c16-bf98e9c1eb45}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(2)",
+    "position": {
+        "x": 85.49005889892578,
+        "y": 35.36534118652344,
+        "z": 25.583805084228516
+    },
+    "dimensions": {
+        "x": 32.114105224609375,
+        "y": 57.708168029785156,
+        "z": 29.563854217529297
+    },
+    "rotation": {
+        "x": 0.0012969970703125,
+        "y": -0.0002593994140625,
+        "z": 0.7496910095214844,
+        "w": 0.6617380380630493
+    },
+    "created": 1651934110642970,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 36.33061218261719,
+        "y": 3.7460556030273438,
+        "z": -273.45574951171875,
+        "scale": 72.35723876953125
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Rock-01c/baked/Rock-01c.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5a31fae6-53f2-4b2d-8a02-d7c3c5d293cb}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(2)",
+    "position": {
+        "x": -0.7914934158325195,
+        "y": -24.28319549560547,
+        "z": 31.285499572753906
+    },
+    "dimensions": {
+        "x": 18.455224990844727,
+        "y": 49.91230010986328,
+        "z": 18.45522689819336
+    },
+    "rotation": {
+        "x": 0.29454493522644043,
+        "y": 0.6012817621231079,
+        "z": 0.6679942607879639,
+        "w": 0.32469677925109863
+    },
+    "created": 1651861221838262,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": -39.94141387939453,
+        "y": 17.536367416381836,
+        "z": -327.8680419921875,
+        "scale": 56.32431411743164
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-compound",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio02.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(4)",
+    "position": {
+        "x": 34.44255065917969,
+        "y": -1.3426170349121094,
+        "z": 25.604595184326172
+    },
+    "dimensions": {
+        "x": 32.114105224609375,
+        "y": 57.708168029785156,
+        "z": 29.563854217529297
+    },
+    "rotation": {
+        "x": -0.024124503135681152,
+        "y": -0.024185538291931152,
+        "z": -0.6809338331222534,
+        "w": 0.7315328121185303
+    },
+    "created": 1651934174277242,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": -14.889202117919922,
+        "y": 3.8146820068359375,
+        "z": -309.9239501953125,
+        "scale": 72.35723876953125
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Rock-01c/baked/Rock-01c.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "type": "Model",
+    "lastEdited": 1651934933047678,
+    "name": "Ilha2",
+    "dimensions": {
+        "x": 80.63188171386719,
+        "y": 144.89328002929688,
+        "z": 74.22872924804688
+    },
+    "rotation": {
+        "x": -0.5764706134796143,
+        "y": -0.4112153649330139,
+        "z": -0.4117341637611389,
+        "w": 0.5736628770828247
+    },
+    "created": 1651933990385051,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": -128.30929565429688,
+        "y": -351.1895446777344,
+        "z": -688.4136352539062,
+        "scale": 801.5731201171875
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Rock-01c/baked/Rock-01c.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{87739014-4ec7-4136-8668-5fa4e775cd5b}",
+    "type": "Model",
+    "lastEdited": 1651934867002113,
+    "parentID": "{be8c7b4f-2a01-4889-bb29-9a49ad37bac6}",
+    "name": "(3)",
+    "position": {
+        "x": 19.0334529876709,
+        "y": 5.074895858764648,
+        "z": 22.688770294189453
+    },
+    "dimensions": {
+        "x": 179.82838439941406,
+        "y": 25.815143585205078,
+        "z": 189.4869842529297
+    },
+    "rotation": {
+        "x": 0.060834769159555435,
+        "y": 0.7039234638214111,
+        "z": 0.7052217721939087,
+        "w": 0.05876449868083
+    },
+    "created": 1651934305047046,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": -371.37890625,
+        "y": -356.73333740234375,
+        "z": -684.1539306640625,
+        "scale": 787.5213623046875
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": -0.000048434361815452576,
+        "y": 0.00003927014768123627,
+        "z": -0.01745142787694931
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/clouds-smooth-low-poly-ring/baked/clouds-smooth-low-poly-ring.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false,
+        "loop": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{38bc3f44-dcd2-49f3-a59f-2def6df13bf5}",
+  "Version": 133
+}
