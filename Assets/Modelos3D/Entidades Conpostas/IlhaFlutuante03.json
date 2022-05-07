@@ -1,0 +1,794 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{61af713e-0ba5-42a5-861e-1b2dfb8b026a}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(2)",
+    "position": {
+        "x": -5.814361572265625,
+        "y": -7.269466400146484,
+        "z": -24.71368980407715
+    },
+    "dimensions": {
+        "x": 10.1044282913208,
+        "y": 25.900714874267578,
+        "z": 10.615594863891602
+    },
+    "rotation": {
+        "x": -0.1748226284980774,
+        "y": -0.0312962532043457,
+        "z": 0.021622061729431152,
+        "w": 0.9838559627532959
+    },
+    "created": 1651692222445486,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -428.1436462402344,
+        "y": 33.85378646850586,
+        "z": 160.4339141845703,
+        "scale": 29.759660720825195
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/treeFall.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f83a2561-b856-4ed5-94ed-00c6c075b14c}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(2)",
+    "position": {
+        "x": 13.9522705078125,
+        "y": 14.72100830078125,
+        "z": -23.481740951538086
+    },
+    "dimensions": {
+        "x": 35.897056579589844,
+        "y": 20.734970092773438,
+        "z": 39.580223083496094
+    },
+    "rotation": {
+        "x": -0.8249179720878601,
+        "y": -0.0000762939453125,
+        "z": 0.5652399063110352,
+        "w": -0.0000762939453125
+    },
+    "created": 1651936504151626,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -455.78558349609375,
+        "y": 42.06475067138672,
+        "z": 132.5123291015625,
+        "scale": 57.316070556640625
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/survival/rockB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{972ea0b3-b4e6-408b-86d3-7b4f2285dc23}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(2)",
+    "position": {
+        "x": 27.687896728515625,
+        "y": 14.432815551757812,
+        "z": -28.23768424987793
+    },
+    "dimensions": {
+        "x": 9.721850395202637,
+        "y": 21.29288101196289,
+        "z": 8.80866813659668
+    },
+    "rotation": {
+        "x": 0.022598624229431152,
+        "y": -0.7245441675186157,
+        "z": -0.047348737716674805,
+        "w": 0.687251091003418
+    },
+    "created": 1651856161260699,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -453.0213317871094,
+        "y": 57.929168701171875,
+        "z": 143.0089874267578,
+        "scale": 25.00987434387207
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_thin.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f63557b4-dcd5-4a67-a9c9-f880559042fb}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(3)",
+    "position": {
+        "x": -18.666290283203125,
+        "y": 38.56889724731445,
+        "z": -15.356230735778809
+    },
+    "dimensions": {
+        "x": 8.565744400024414,
+        "y": 24.889883041381836,
+        "z": 8.565744400024414
+    },
+    "rotation": {
+        "x": -0.047135114669799805,
+        "y": -0.619073748588562,
+        "z": 0.031143665313720703,
+        "w": 0.7833218574523926
+    },
+    "created": 1651885274126091,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -411.293212890625,
+        "y": 80.73145294189453,
+        "z": 163.1146240234375,
+        "scale": 27.681224822998047
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_pineDefaultB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{80c22149-bebe-4b90-a9b7-e0f87a3f5894}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(4)",
+    "position": {
+        "x": 5.655975341796875,
+        "y": 12.452529907226562,
+        "z": 29.706195831298828
+    },
+    "dimensions": {
+        "x": 41.16119384765625,
+        "y": 38.39377212524414,
+        "z": 58.9995231628418
+    },
+    "rotation": {
+        "x": -0.3830472230911255,
+        "y": -0.0000457763671875,
+        "z": 0.9237048625946045,
+        "w": -0.0001068115234375
+    },
+    "created": 1651936703245297,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -426.14630126953125,
+        "y": 27.679325103759766,
+        "z": 86.42738342285156,
+        "scale": 81.54305267333984
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/rockC.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5a31fae6-53f2-4b2d-8a02-d7c3c5d293cb}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(2)",
+    "position": {
+        "x": 6.26531982421875,
+        "y": 45.87931823730469,
+        "z": 3.706395149230957
+    },
+    "dimensions": {
+        "x": 14.642546653747559,
+        "y": 74.4490737915039,
+        "z": 14.878889083862305
+    },
+    "rotation": {
+        "x": -0.0024262070655822754,
+        "y": -0.7093461751937866,
+        "z": 0.0000152587890625,
+        "w": 0.7048294544219971
+    },
+    "created": 1651861221838262,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -441.88409423828125,
+        "y": 63.21932601928711,
+        "z": 107.44760131835938,
+        "scale": 77.32044219970703
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-compound",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio02.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2bf23086-26a6-4c22-a782-5d4b0354bf3e}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(2)",
+    "position": {
+        "x": 24.182464599609375,
+        "y": 12.398662567138672,
+        "z": 22.871681213378906
+    },
+    "dimensions": {
+        "x": 12.529914855957031,
+        "y": 10.916160583496094,
+        "z": 10.598958969116211
+    },
+    "rotation": {
+        "x": -0.0000762939453125,
+        "y": -0.8662394285202026,
+        "z": -0.0000457763671875,
+        "w": 0.49962615966796875
+    },
+    "created": 1651855876139462,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -413.5695495605469,
+        "y": 58.541168212890625,
+        "z": 110.02622985839844,
+        "scale": 19.710384368896484
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio01.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{e71080dd-db1d-446e-b38d-9dde254d38cb}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(4)",
+    "position": {
+        "x": -28.668914794921875,
+        "y": 30.560226440429688,
+        "z": -5.296752452850342
+    },
+    "dimensions": {
+        "x": 11.980062484741211,
+        "y": 34.81102752685547,
+        "z": 11.980062484741211
+    },
+    "rotation": {
+        "x": -0.03495842218399048,
+        "y": -0.0015716552734375,
+        "z": 0.043564558029174805,
+        "w": 0.9984130859375
+    },
+    "created": 1651937868760262,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -402.6466369628906,
+        "y": 67.20576477050781,
+        "z": 156.81629943847656,
+        "scale": 38.71500015258789
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_pineDefaultB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{63cd68ec-d185-459e-a474-1484bb759742}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "position": {
+        "x": -25.91412353515625,
+        "y": 31.00122833251953,
+        "z": 9.318465232849121
+    },
+    "dimensions": {
+        "x": 35.897056579589844,
+        "y": 20.734970092773438,
+        "z": 39.580223083496094
+    },
+    "rotation": {
+        "x": -0.7925383448600769,
+        "y": -0.0001068115234375,
+        "z": -0.6098573207855225,
+        "w": -0.0000152587890625
+    },
+    "created": 1651691097232131,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -404.21514892578125,
+        "y": 58.344970703125,
+        "z": 134.81227111816406,
+        "scale": 57.316070556640625
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "textures": "{\n    \"\": \"https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/CidadeCompleta/BlackwaterCity/676.png\"\n}",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/survival/rockB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c6a0ccb0-d3ba-4a4f-a555-4923e7ffe7f0}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(3)",
+    "position": {
+        "x": 8.534423828125,
+        "y": 47.73514938354492,
+        "z": 6.5853271484375
+    },
+    "dimensions": {
+        "x": 34.22404479980469,
+        "y": 16.220703125,
+        "z": 48.12693786621094
+    },
+    "rotation": {
+        "x": -0.7786831259727478,
+        "y": -0.0001373291015625,
+        "z": 0.6274051666259766,
+        "w": -0.0001068115234375
+    },
+    "created": 1651856362593636,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -433.6047668457031,
+        "y": 73.11395263671875,
+        "z": 111.82905578613281,
+        "scale": 61.242130279541016
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/rockC.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "type": "Model",
+    "lastEdited": 1651938122519450,
+    "name": "(4)",
+    "dimensions": {
+        "x": 57.64929962158203,
+        "y": 103.5942153930664,
+        "z": 53.07124328613281
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": 0.933562159538269,
+        "z": -0.0000457763671875,
+        "w": 0.35835814476013184
+    },
+    "created": 1651934174277242,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -64.94567108154297,
+        "y": -64.94567108154297,
+        "z": -64.94567108154297,
+        "scale": 129.89134216308594
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Rock-01c/baked/Rock-01c.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{102ecb08-9381-4a3b-ad90-6901ad3823a2}",
+    "type": "Model",
+    "lastEdited": 1651938099018540,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(2)",
+    "position": {
+        "x": 0.23651123046875,
+        "y": 12.19326400756836,
+        "z": 7.322197437286377
+    },
+    "dimensions": {
+        "x": 128.1379852294922,
+        "y": 18.394765853881836,
+        "z": 135.0203094482422
+    },
+    "rotation": {
+        "x": -0.0008670480456203222,
+        "y": 0.320187509059906,
+        "z": -0.004649187438189983,
+        "w": 0.9473424553871155
+    },
+    "created": 1651871421907787,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -676.9017944335938,
+        "y": -212.3833770751953,
+        "z": -133.11883544921875,
+        "scale": 561.1539306640625
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": 0.00007506253314204514,
+        "y": 0.017449624836444855,
+        "z": -0.000052881128794979304
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/clouds-smooth-low-poly-ring/baked/clouds-smooth-low-poly-ring.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false,
+        "loop": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{618c094f-8b6d-4247-b034-2be1f132cc33}",
+    "type": "Model",
+    "lastEdited": 1651938099018540,
+    "parentID": "{5a07d75c-7dde-4df6-9d08-f9185a9e845f}",
+    "name": "(3)",
+    "position": {
+        "x": -1.103057861328125,
+        "y": -38.930137634277344,
+        "z": 2.8185875415802
+    },
+    "dimensions": {
+        "x": 86.81661987304688,
+        "y": 12.462903022766113,
+        "z": 91.47955322265625
+    },
+    "rotation": {
+        "x": 0.0009453081875108182,
+        "y": -0.9998709559440613,
+        "z": -0.001679754350334406,
+        "w": 0.015949435532093048
+    },
+    "created": 1651936877961066,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": -588.4407348632812,
+        "y": -173.0271453857422,
+        "z": -38.39186096191406,
+        "scale": 380.19549560546875
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": 5.326151608642249e-7,
+        "y": -0.01745299994945526,
+        "z": -5.326314180820191e-7
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/clouds-smooth-low-poly-ring/baked/clouds-smooth-low-poly-ring.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false,
+        "loop": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{3b1917a9-8b23-4fcc-a8b3-d740b0f2bda1}",
+  "Version": 133
+}
