@@ -1,0 +1,8 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl grass
+Kd 0.172549 0.8470588 0.7215686
+
+newmtl rock
+Kd 0.9098039 0.8352941 0.6745098
