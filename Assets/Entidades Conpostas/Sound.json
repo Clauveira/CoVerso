@@ -1,0 +1,60 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{848bc506-0f94-4708-8024-3533cca1c8c3}",
+    "type": "Model",
+    "lastEdited": 1650268390932768,
+    "visible": false,
+    "name": "Sound Emitter Rainforest-Birds",
+    "locked": true,
+    "userData": "{\"soundURL\":\"https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Audio/rainforest-birds-2.wav\",\"volume\":0.5,\"shouldLoop\":true}",
+    "description": "Specify URL to your 48K 16bit PCM wav file & volume (0-1) in userData below",
+    "dimensions": {
+        "x": 0.6447294354438782,
+        "y": 0.6438502073287964,
+        "z": 0.26574596762657166
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.7563744783401489,
+        "z": -0.0000457763671875,
+        "w": 0.6541390419006348
+    },
+    "created": 1555639838965760,
+    "lastEditedBy": "{049c343a-3733-48c8-b84a-0688e52c135e}",
+    "queryAACube": {
+        "x": -0.47456297278404236,
+        "y": -0.47456297278404236,
+        "z": -0.47456297278404236,
+        "scale": 0.9491259455680847
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "serverScripts": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Releases/usefulUtilities/soundEmitter/v1.2/soundEmitter.js",
+    "marketplaceID": "85b89b87-07d0-4842-b364-e6a74a56c7b6",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/speakerGizmo/baked/speakerGizmo.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{72c123cf-8570-4e69-a437-9be7b49159b4}",
+  "Version": 133
+}

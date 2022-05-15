@@ -1,0 +1,122 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{37c29a81-90e9-453e-8940-24a210ba1876}",
+    "type": "Model",
+    "lastEdited": 1652023301590506,
+    "parentID": "{364148db-bf45-42b1-979b-ba800ce24f78}",
+    "position": {
+        "x": -100.56283569335938,
+        "y": -0.23456573486328125,
+        "z": 2.3268585205078125
+    },
+    "dimensions": {
+        "x": 15.814966201782227,
+        "y": 5.0833821296691895,
+        "z": 12.571035385131836
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -1,
+        "z": 0.0000152587890625,
+        "w": -0.0000152587890625
+    },
+    "created": 1651698647402820,
+    "lastEditedBy": "{e1638a6b-39e0-4c29-9a4f-5db6b5d5030f}",
+    "queryAACube": {
+        "x": -355.0087890625,
+        "y": 85.31277465820312,
+        "z": 156.58767700195312,
+        "scale": 20.832304000854492
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/space/craft_speederD.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{364148db-bf45-42b1-979b-ba800ce24f78}",
+    "type": "Shape",
+    "lastEdited": 1652023301590530,
+    "dimensions": {
+        "x": 5.716021537780762,
+        "y": 5.716021537780762,
+        "z": 5.716021537780762
+    },
+    "rotation": {
+        "x": 0.000050405771617079154,
+        "y": -0.9751367568969727,
+        "z": -0.00016650196630507708,
+        "w": -0.22160382568836212
+    },
+    "created": 1652022665758000,
+    "lastEditedBy": "{e1638a6b-39e0-4c29-9a4f-5db6b5d5030f}",
+    "queryAACube": {
+        "x": -14.85066032409668,
+        "y": -14.85066032409668,
+        "z": -14.85066032409668,
+        "scale": 29.70132064819336
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": 0,
+        "y": -0.5585049986839294,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 0,
+        "green": 180,
+        "blue": 239
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{ba80a44f-aba9-4b75-abb1-29fe1d938dbd}",
+  "Version": 133
+}

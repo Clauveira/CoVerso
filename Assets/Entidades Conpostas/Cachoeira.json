@@ -1,0 +1,177 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{70e81b28-35e8-4213-a679-86bb5e163cde}",
+    "type": "Model",
+    "lastEdited": 1652298055129712,
+    "visible": false,
+    "name": "Sound Emitter Pond",
+    "userData": "{\n    \"shouldLoop\": true,\n    \"soundURL\": \"https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Audio/pond-ambience-2.wav\",\n    \"volume\": 1\n}\n",
+    "description": "Specify URL to your 48K 16bit PCM wav file & volume (0-1) in userData below",
+    "dimensions": {
+        "x": 5.82939338684082,
+        "y": 5.821443557739258,
+        "z": 7.575328826904297
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1652297504458678,
+    "lastEditedBy": "{eb50184d-f4f8-4fd4-a5cd-76843ad84ef6}",
+    "queryAACube": {
+        "x": -5.595905780792236,
+        "y": -5.595905780792236,
+        "z": -5.595905780792236,
+        "scale": 11.191811561584473
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "scriptTimestamp": 1568054706176,
+    "serverScripts": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Releases/usefulUtilities/soundEmitter/v1.2/soundEmitter.js",
+    "marketplaceID": "85b89b87-07d0-4842-b364-e6a74a56c7b6",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/speakerGizmo/baked/speakerGizmo.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4da5bded-b3bb-45d1-ab37-a6a7834ad02e}",
+    "type": "Sphere",
+    "lastEdited": 1652298080209948,
+    "name": "Eixo Cascata",
+    "position": {
+        "x": 2.1447043418884277,
+        "y": 0.47754889726638794,
+        "z": 2.2273597717285156
+    },
+    "dimensions": {
+        "x": 2.228876829147339,
+        "y": 2.228876829147339,
+        "z": 2.228876829147339
+    },
+    "rotation": {
+        "x": -0.0000762939453125,
+        "y": 0.24187076091766357,
+        "z": -0.0000457763671875,
+        "w": 0.9703059196472168
+    },
+    "created": 1652297876938314,
+    "lastEditedBy": "{eb50184d-f4f8-4fd4-a5cd-76843ad84ef6}",
+    "queryAACube": {
+        "x": -27.828195571899414,
+        "y": -23.784744262695312,
+        "z": -29.232248306274414,
+        "scale": 75.68341064453125
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 0,
+        "green": 180,
+        "blue": 239
+    },
+    "alpha": 0,
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{06447182-c7c6-4541-902e-43e7dcec5308}",
+    "type": "Model",
+    "lastEdited": 1652297922838997,
+    "parentID": "{4da5bded-b3bb-45d1-ab37-a6a7834ad02e}",
+    "dimensions": {
+        "x": 5.998311996459961,
+        "y": 10.32909107208252,
+        "z": 10.742124557495117
+    },
+    "rotation": {
+        "x": 0.6732194423675537,
+        "y": -0.0000802155991550535,
+        "z": -0.000031288025638787076,
+        "w": 0.739442765712738
+    },
+    "created": 1652297504458593,
+    "lastEditedBy": "{eb50184d-f4f8-4fd4-a5cd-76843ad84ef6}",
+    "queryAACube": {
+        "x": -22.25220489501953,
+        "y": -23.13210678100586,
+        "z": -3.9104652404785156,
+        "scale": 48.19302749633789
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": -0.8552110195159912,
+        "y": -0.000026099367460119538,
+        "z": 0.000026098570742760785
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/waterfall-lowpoly-non-metallic/baked/waterfall-lowpoly-non-metallic.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{e6a348be-936e-4202-957d-cf2afd39c907}",
+  "Version": 133
+}

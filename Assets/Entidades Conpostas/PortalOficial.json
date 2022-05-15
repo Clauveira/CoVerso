@@ -1,0 +1,125 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{1f981780-88fa-48c5-88cb-3fc876edc8ab}",
+    "type": "Shape",
+    "lastEdited": 1652461085469784,
+    "parentID": "{291c2428-9c96-474b-b3d5-6fafb5214f33}",
+    "name": "Teleporte (4)",
+    "userData": "{\"destination\":\"hifi://162.240.72.75:40102/1.73043,-0.0453307,-5.0857/0,0.728461,0,0.685087\"}",
+    "position": {
+        "x": 0.03475761413574219,
+        "y": 0.31160449981689453,
+        "z": -0.11785316467285156
+    },
+    "dimensions": {
+        "x": 4.151821136474609,
+        "y": 0.07923237979412079,
+        "z": 4.375881671905518
+    },
+    "rotation": {
+        "x": 0.7058060169219971,
+        "y": -0.009842097759246826,
+        "z": 0.005508542060852051,
+        "w": 0.7082780599594116
+    },
+    "created": 1652386168238815,
+    "lastEditedBy": "{5d1cfffa-b116-4ad5-9c9c-51176cda6a18}",
+    "queryAACube": {
+        "x": 12.95199203491211,
+        "y": 0.052242279052734375,
+        "z": 1.2899346351623535,
+        "scale": 6.032597541809082
+    },
+    "canCastShadow": false,
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "triggerable": true,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "https://cdn-1.vircadia.com/us-e-1/DomainContent/Tutorial/Scripts/portal.js",
+    "scriptTimestamp": 1651866075136,
+    "color": {
+        "red": 240,
+        "green": 184,
+        "blue": 0
+    },
+    "alpha": 0.6299999952316284,
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{291c2428-9c96-474b-b3d5-6fafb5214f33}",
+    "type": "Model",
+    "lastEdited": 1652461037991622,
+    "name": "(4)",
+    "dimensions": {
+        "x": 5.752474308013916,
+        "y": 5.827330589294434,
+        "z": 2.876237154006958
+    },
+    "rotation": {
+        "x": -0.0001983642578125,
+        "y": 0.7986724376678467,
+        "z": -0.0000457763671875,
+        "w": 0.6017395257949829
+    },
+    "created": 1652386168238657,
+    "lastEditedBy": "{5d1cfffa-b116-4ad5-9c9c-51176cda6a18}",
+    "queryAACube": {
+        "x": -4.339397430419922,
+        "y": -4.339397430419922,
+        "z": -4.339397430419922,
+        "scale": 8.678794860839844
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/space/gate_complex.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{16dc2438-1f89-4568-84f8-57983c3c0f9a}",
+  "Version": 133
+}

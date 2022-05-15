@@ -1,0 +1,3702 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{7e80b32a-f63e-476c-8fe3-9d6e7a2936de}",
+    "type": "Box",
+    "lastEdited": 1652293217077387,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": 6.1811370849609375,
+        "y": -11.453967094421387,
+        "z": -10.917625427246094
+    },
+    "dimensions": {
+        "x": 1.6478791236877441,
+        "y": 0.0010000000474974513,
+        "z": 4.676482200622559
+    },
+    "rotation": {
+        "x": -0.7110856771469116,
+        "y": 0.00901806354522705,
+        "z": 0.012375116348266602,
+        "w": 0.7029678821563721
+    },
+    "created": 1652293094864205,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 53.48765182495117,
+        "y": 10.96072769165039,
+        "z": 84.93224334716797,
+        "scale": 4.958325386047363
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 252,
+        "green": 252,
+        "blue": 252
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{7613ee1f-3976-474a-b8dd-5c5e0daa8229}",
+    "type": "Box",
+    "lastEdited": 1652293217077050,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": 4.879322052001953,
+        "y": -11.775665283203125,
+        "z": -10.603233337402344
+    },
+    "dimensions": {
+        "x": 1.212095022201538,
+        "y": 0.0010000000474974513,
+        "z": 4.04152250289917
+    },
+    "rotation": {
+        "x": -0.7106279134750366,
+        "y": 0.00920116901397705,
+        "z": 0.012924432754516602,
+        "w": 0.7033951282501221
+    },
+    "created": 1652293094865210,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 53.13885498046875,
+        "y": 11.008905410766602,
+        "z": 86.43213653564453,
+        "scale": 4.219369411468506
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 252,
+        "green": 252,
+        "blue": 252
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f6dd70da-c7ea-44f4-9365-8a1b94b4275c}",
+    "type": "Model",
+    "lastEdited": 1652293217096728,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(2)",
+    "position": {
+        "x": 1.4221305847167969,
+        "y": -13.815474510192871,
+        "z": -10.549842834472656
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": 0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094864119,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.39457702636719,
+        "y": 7.6762213706970215,
+        "z": 87.57837677001953,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2943ba94-b6e1-4335-bc3b-e73a960595a0}",
+    "type": "Model",
+    "lastEdited": 1652293217088512,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 6.246467590332031,
+        "y": -13.81412410736084,
+        "z": -10.638408660888672
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": 0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094863594,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.80393600463867,
+        "y": 7.676219463348389,
+        "z": 84.16404724121094,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0c49f172-5000-40a1-9c9a-362617253db7}",
+    "type": "Box",
+    "lastEdited": 1652293217072824,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": 3.263721466064453,
+        "y": -11.793902397155762,
+        "z": -10.55093765258789
+    },
+    "dimensions": {
+        "x": 2.04561185836792,
+        "y": 0.0010000000474974513,
+        "z": 4.022884368896484
+    },
+    "rotation": {
+        "x": -0.7107194662094116,
+        "y": 0.00917065143585205,
+        "z": 0.012771844863891602,
+        "w": 0.7032730579376221
+    },
+    "created": 1652293094865238,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 51.86595916748047,
+        "y": 10.844255447387695,
+        "z": 87.4449691772461,
+        "scale": 4.513106346130371
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 255,
+        "green": 237,
+        "blue": 38
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{aec308c8-2ae6-48c4-9597-7a59af0f40d6}",
+    "type": "Box",
+    "lastEdited": 1652293217080489,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(7)",
+    "position": {
+        "x": 8.641376495361328,
+        "y": -11.746962547302246,
+        "z": -10.72344970703125
+    },
+    "dimensions": {
+        "x": 3.246994733810425,
+        "y": 0.0010000000474974513,
+        "z": 4.058717250823975
+    },
+    "rotation": {
+        "x": -0.7106279134750366,
+        "y": 0.00920116901397705,
+        "z": 0.012924432754516602,
+        "w": 0.7033951282501221
+    },
+    "created": 1652293094863967,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 55.27280807495117,
+        "y": 10.547378540039062,
+        "z": 83.24364471435547,
+        "scale": 5.197707653045654
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{50ed538a-ac07-47ad-b43e-5b0fec880b0d}",
+    "type": "Box",
+    "lastEdited": 1652293217074751,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": 0.20553970336914062,
+        "y": -4.556819915771484,
+        "z": -10.725601196289062
+    },
+    "dimensions": {
+        "x": 4.752658843994141,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7115434408187866,
+        "y": 0.00880444049835205,
+        "z": 0.011795282363891602,
+        "w": 0.7025101184844971
+    },
+    "created": 1652293094864608,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.406864166259766,
+        "y": 17.943735122680664,
+        "z": 89.30284118652344,
+        "scale": 4.789970397949219
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4a29bb4f-4411-4dd0-816b-10848457e9b0}",
+    "type": "Box",
+    "lastEdited": 1652293217074503,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(7)",
+    "position": {
+        "x": 1.4705886840820312,
+        "y": -0.266510009765625,
+        "z": -10.801345825195312
+    },
+    "dimensions": {
+        "x": 0.6565167903900146,
+        "y": 0.0010000000474974513,
+        "z": 0.5557886362075806
+    },
+    "rotation": {
+        "x": -0.7117265462875366,
+        "y": 0.00871288776397705,
+        "z": 0.01155102252960205,
+        "w": 0.7023270130157471
+    },
+    "created": 1652293094865427,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.22979736328125,
+        "y": 24.198577880859375,
+        "z": 90.33344268798828,
+        "scale": 0.8601838946342468
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{bb19857f-9a14-4941-94c8-e73d2a1cac00}",
+    "type": "Box",
+    "lastEdited": 1652293217081811,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(7)",
+    "position": {
+        "x": 8.604019165039062,
+        "y": -4.599428176879883,
+        "z": -10.798904418945312
+    },
+    "dimensions": {
+        "x": 3.246994733810425,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7110856771469116,
+        "y": 0.00901806354522705,
+        "z": 0.012375116348266602,
+        "w": 0.7029678821563721
+    },
+    "created": 1652293094864178,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 56.142539978027344,
+        "y": 18.643085479736328,
+        "z": 84.16149139404297,
+        "scale": 3.3013665676116943
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{eecc0a44-61b7-4ddd-8873-e5fba914efd6}",
+    "type": "Box",
+    "lastEdited": 1652293217084209,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -1.5819892883300781,
+        "y": -2.3681468963623047,
+        "z": -10.659904479980469
+    },
+    "dimensions": {
+        "x": 1.1365768909454346,
+        "y": 0.0010000000474974513,
+        "z": 3.9192752838134766
+    },
+    "rotation": {
+        "x": -0.7124589681625366,
+        "y": 0.0022735595703125,
+        "z": 0.004715085029602051,
+        "w": 0.7017166614532471
+    },
+    "created": 1652293094864552,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 48.521324157714844,
+        "y": 20.487524032592773,
+        "z": 90.9455795288086,
+        "scale": 4.080750942230225
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 250,
+        "green": 233,
+        "blue": 50
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{058a1b71-9163-4367-b305-8e46ec86ed2e}",
+    "type": "Box",
+    "lastEdited": 1652293217072420,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(8)",
+    "position": {
+        "x": 2.7693252563476562,
+        "y": -2.2757091522216797,
+        "z": -10.58782958984375
+    },
+    "dimensions": {
+        "x": 1.0871658325195312,
+        "y": 0.0010000000474974513,
+        "z": 3.983307361602783
+    },
+    "rotation": {
+        "x": -0.7112993001937866,
+        "y": 0.00892651081085205,
+        "z": 0.012130975723266602,
+        "w": 0.7027542591094971
+    },
+    "created": 1652293094865321,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 51.677818298339844,
+        "y": 20.55463409423828,
+        "z": 87.95120239257812,
+        "scale": 4.129003047943115
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d2a1106b-c396-4056-bcfb-a70fad2e5020}",
+    "type": "Box",
+    "lastEdited": 1652293217082797,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(7)",
+    "position": {
+        "x": 3.8641815185546875,
+        "y": -4.537574768066406,
+        "z": -10.607925415039062
+    },
+    "dimensions": {
+        "x": 3.246994733810425,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7112382650375366,
+        "y": 0.00895702838897705,
+        "z": 0.012192010879516602,
+        "w": 0.7028152942657471
+    },
+    "created": 1652293094865294,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.865108489990234,
+        "y": 18.706279754638672,
+        "z": 87.5907974243164,
+        "scale": 3.3013665676116943
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{6d403067-3865-4866-af41-e96bdd8a313b}",
+    "type": "Box",
+    "lastEdited": 1652293217076162,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": 8.575645446777344,
+        "y": -2.285036087036133,
+        "z": -10.814285278320312
+    },
+    "dimensions": {
+        "x": 3.2241101264953613,
+        "y": 0.0010000000474974513,
+        "z": 4.009966850280762
+    },
+    "rotation": {
+        "x": -0.7109941244125366,
+        "y": 0.00904858112335205,
+        "z": 0.012466669082641602,
+        "w": 0.7030594348907471
+    },
+    "created": 1652293094863879,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 55.189720153808594,
+        "y": 20.035486221313477,
+        "z": 83.24748992919922,
+        "scale": 5.145359039306641
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 255,
+        "green": 237,
+        "blue": 38
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b21e2408-d56c-4ea6-9ea3-1b09abc1d318}",
+    "type": "Box",
+    "lastEdited": 1652293217080839,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 6.159309387207031,
+        "y": -2.3878517150878906,
+        "z": -10.918037414550781
+    },
+    "dimensions": {
+        "x": 1.4534523487091064,
+        "y": 0.0010000000474974513,
+        "z": 3.8925435543060303
+    },
+    "rotation": {
+        "x": -0.7110856771469116,
+        "y": 0.00901806354522705,
+        "z": 0.012375116348266602,
+        "w": 0.7029678821563721
+    },
+    "created": 1652293094865347,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 53.87437438964844,
+        "y": 20.428485870361328,
+        "z": 85.34622955322266,
+        "scale": 4.155047416687012
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 63,
+        "green": 63,
+        "blue": 209
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0187e1d3-9498-496b-85b5-3abbec90761b}",
+    "type": "Box",
+    "lastEdited": 1652293217072204,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": -1.43341064453125,
+        "y": -0.24732589721679688,
+        "z": -10.758552551269531
+    },
+    "dimensions": {
+        "x": 1.2292466163635254,
+        "y": 0.0010000000474974513,
+        "z": 0.4440816044807434
+    },
+    "rotation": {
+        "x": -0.7119706869125366,
+        "y": 0.00865185260772705,
+        "z": 0.01130688190460205,
+        "w": 0.7020828723907471
+    },
+    "created": 1652293094864712,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.94682693481445,
+        "y": 23.99516487121582,
+        "z": 92.15769958496094,
+        "scale": 1.3070029020309448
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{44884bfc-acf2-489a-874f-4ba79f47649a}",
+    "type": "Model",
+    "lastEdited": 1652293217091789,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": 1.397613525390625,
+        "y": -4.591745376586914,
+        "z": -10.536346435546875
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": -0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094864679,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.38739776611328,
+        "y": 16.89995765686035,
+        "z": 87.60254669189453,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{739a0827-428b-4a65-88ff-3ab9dcae3ff3}",
+    "type": "Box",
+    "lastEdited": 1652293217076515,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": 0.054027557373046875,
+        "y": -2.3470211029052734,
+        "z": -10.674392700195312
+    },
+    "dimensions": {
+        "x": 2.192920684814453,
+        "y": 0.0010000000474974513,
+        "z": 3.949777126312256
+    },
+    "rotation": {
+        "x": -0.7118791341781616,
+        "y": 0.027115225791931152,
+        "z": 0.029251575469970703,
+        "w": 0.7011978626251221
+    },
+    "created": 1652293094864966,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.46982192993164,
+        "y": 20.289716720581055,
+        "z": 89.58042907714844,
+        "scale": 4.517703056335449
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 250,
+        "green": 233,
+        "blue": 50
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{93cdac46-d19a-4375-86a6-032740ee748c}",
+    "type": "Box",
+    "lastEdited": 1652293217078728,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(7)",
+    "position": {
+        "x": 1.697235107421875,
+        "y": -2.3772144317626953,
+        "z": -10.730098724365234
+    },
+    "dimensions": {
+        "x": 1.0871658325195312,
+        "y": 0.0010000000474974513,
+        "z": 3.7940382957458496
+    },
+    "rotation": {
+        "x": -0.7113298177719116,
+        "y": 0.00886547565460205,
+        "z": 0.012039422988891602,
+        "w": 0.7026932239532471
+    },
+    "created": 1652293094865400,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 50.89882278442383,
+        "y": 20.544546127319336,
+        "z": 88.68460083007812,
+        "scale": 3.9467275142669678
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{58781193-653b-47dc-899f-af9409caa495}",
+    "type": "Model",
+    "lastEdited": 1652293217092619,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(2)",
+    "position": {
+        "x": 6.245292663574219,
+        "y": -4.546165466308594,
+        "z": -10.637645721435547
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": 0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094864236,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.80471420288086,
+        "y": 16.944177627563477,
+        "z": 84.16283416748047,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a916b322-7c3f-42cc-8e35-8a49aea79b6d}",
+    "type": "Box",
+    "lastEdited": 1652293217079894,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(7)",
+    "position": {
+        "x": 5.833362579345703,
+        "y": -0.20516586303710938,
+        "z": -10.925346374511719
+    },
+    "dimensions": {
+        "x": 1.00923490524292,
+        "y": 0.0010000000474974513,
+        "z": 0.6407365798950195
+    },
+    "rotation": {
+        "x": -0.7115434408187866,
+        "y": 0.00883495807647705,
+        "z": 0.011825799942016602,
+        "w": 0.7025101184844971
+    },
+    "created": 1652293094865454,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 55.11485290527344,
+        "y": 24.091060638427734,
+        "z": 87.04653930664062,
+        "scale": 1.1954494714736938
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2df60385-7244-4a86-a18c-11f92aec21c0}",
+    "type": "Box",
+    "lastEdited": 1652293217073851,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 4.384777069091797,
+        "y": -2.084329605102539,
+        "z": -10.63824462890625
+    },
+    "dimensions": {
+        "x": 2.1553890705108643,
+        "y": 0.0010000000474974513,
+        "z": 4.457411289215088
+    },
+    "rotation": {
+        "x": -0.7108720541000366,
+        "y": 0.00910961627960205,
+        "z": 0.012619256973266602,
+        "w": 0.7031204700469971
+    },
+    "created": 1652293094865375,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.39397430419922,
+        "y": 20.3344669342041,
+        "z": 86.38182067871094,
+        "scale": 4.951183319091797
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{aa2116c6-9e4f-44c0-89ec-08b1c2af8988}",
+    "type": "Model",
+    "lastEdited": 1652293217093830,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 6.245880126953125,
+        "y": -9.160305976867676,
+        "z": -10.63802719116211
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": 0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094863717,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.80432891845703,
+        "y": 12.330038070678711,
+        "z": 84.16343688964844,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ee63dab8-8c97-41d2-9774-53095c4d4411}",
+    "type": "Box",
+    "lastEdited": 1652293217083894,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 6.157764434814453,
+        "y": -6.732204437255859,
+        "z": -10.970806121826172
+    },
+    "dimensions": {
+        "x": 1.6478791236877441,
+        "y": 0.0010000000474974513,
+        "z": 4.904866695404053
+    },
+    "rotation": {
+        "x": -0.7113603353500366,
+        "y": 0.00886547565460205,
+        "z": 0.012008905410766602,
+        "w": 0.7026627063751221
+    },
+    "created": 1652293094864087,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 53.326480865478516,
+        "y": 15.574508666992188,
+        "z": 84.8009262084961,
+        "scale": 5.174284934997559
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 252,
+        "green": 252,
+        "blue": 252
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{3f742828-79bf-4879-a0bb-7c174cadc0c5}",
+    "type": "Box",
+    "lastEdited": 1652293217074284,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": 9.659156799316406,
+        "y": -6.817121505737305,
+        "z": -10.803512573242188
+    },
+    "dimensions": {
+        "x": 1.3558034896850586,
+        "y": 0.0010000000474974513,
+        "z": 4.676482200622559
+    },
+    "rotation": {
+        "x": -0.7105058431625366,
+        "y": 0.00926220417022705,
+        "z": 0.013046503067016602,
+        "w": 0.7034866809844971
+    },
+    "created": 1652293094863993,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 56.11435317993164,
+        "y": 15.641253471374512,
+        "z": 82.64213562011719,
+        "scale": 4.869054317474365
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8597dce9-9871-471c-a969-d3efead34111}",
+    "type": "Box",
+    "lastEdited": 1652293217078184,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": 3.779590606689453,
+        "y": -6.996593475341797,
+        "z": -10.568519592285156
+    },
+    "dimensions": {
+        "x": 3.2241101264953613,
+        "y": 0.0010000000474974513,
+        "z": 4.457411289215088
+    },
+    "rotation": {
+        "x": -0.7107805013656616,
+        "y": 0.00914013385772705,
+        "z": 0.012710809707641602,
+        "w": 0.7032120227813721
+    },
+    "created": 1652293094864993,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 51.73139953613281,
+        "y": 15.14736270904541,
+        "z": 86.57865142822266,
+        "scale": 5.501218318939209
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 255,
+        "green": 237,
+        "blue": 38
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{74597dae-bca6-46ad-8132-4b393813be60}",
+    "type": "Box",
+    "lastEdited": 1652293217076808,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": 7.998142242431641,
+        "y": -7.024187088012695,
+        "z": -10.749076843261719
+    },
+    "dimensions": {
+        "x": 2.0129380226135254,
+        "y": 0.0010000000474974513,
+        "z": 4.260318279266357
+    },
+    "rotation": {
+        "x": -0.7106279134750366,
+        "y": 0.00920116901397705,
+        "z": 0.012893915176391602,
+        "w": 0.7033646106719971
+    },
+    "created": 1652293094863905,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 55.03568649291992,
+        "y": 15.513221740722656,
+        "z": 83.91352844238281,
+        "scale": 4.7119245529174805
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 63,
+        "green": 63,
+        "blue": 209
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{31737cf9-ff61-4650-b23c-4b6fc47f43b1}",
+    "type": "Model",
+    "lastEdited": 1652293217089287,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(2)",
+    "position": {
+        "x": -1.3295021057128906,
+        "y": -9.25636100769043,
+        "z": -10.531845092773438
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 3.0568766593933105
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": -0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094864933,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 47.991390228271484,
+        "y": 12.799545288085938,
+        "z": 90.06456756591797,
+        "scale": 5.680167198181152
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{679a0953-0394-41eb-b3f4-1fa831cb6fe6}",
+    "type": "Box",
+    "lastEdited": 1652293217075668,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": 8.628868103027344,
+        "y": -9.435773849487305,
+        "z": -10.746768951416016
+    },
+    "dimensions": {
+        "x": 3.246994733810425,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7109330892562866,
+        "y": 0.00907909870147705,
+        "z": 0.012558221817016602,
+        "w": 0.7030594348907471
+    },
+    "created": 1652293094863685,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 56.1960563659668,
+        "y": 13.80673885345459,
+        "z": 84.18309020996094,
+        "scale": 3.3013665676116943
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{849aa40b-a966-4c72-b363-5c0ab7fe5b67}",
+    "type": "Box",
+    "lastEdited": 1652293217077929,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -1.3889579772949219,
+        "y": -7.045803070068359,
+        "z": -10.756935119628906
+    },
+    "dimensions": {
+        "x": 1.2141698598861694,
+        "y": 0.0010000000474974513,
+        "z": 4.3705735206604
+    },
+    "rotation": {
+        "x": -0.7137101888656616,
+        "y": 0.0020599365234375,
+        "z": 0.00926220417022705,
+        "w": 0.7004044055938721
+    },
+    "created": 1652293094864879,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 48.364585876464844,
+        "y": 15.582132339477539,
+        "z": 90.51534271240234,
+        "scale": 4.536090850830078
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 63,
+        "green": 63,
+        "blue": 209
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ad6a1cb4-ebbc-4baa-8c3b-bc949ea69fda}",
+    "type": "Box",
+    "lastEdited": 1652293217080172,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 1.7068061828613281,
+        "y": -7.002202987670898,
+        "z": -10.741573333740234
+    },
+    "dimensions": {
+        "x": 0.9525838494300842,
+        "y": 0.0010000000474974513,
+        "z": 4.392391204833984
+    },
+    "rotation": {
+        "x": -0.7137712240219116,
+        "y": 0.0020904541015625,
+        "z": 0.00920116901397705,
+        "w": 0.7003433704376221
+    },
+    "created": 1652293094864581,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 50.62330627441406,
+        "y": 15.645668029785156,
+        "z": 88.39710235595703,
+        "scale": 4.4944987297058105
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d606744a-5dd6-4bfd-8498-ca2cdb99ac2d}",
+    "type": "Model",
+    "lastEdited": 1652293217095391,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 1.3981857299804688,
+        "y": -9.160934448242188,
+        "z": -10.536720275878906
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688868522644043,
+        "z": -0.0000457763671875,
+        "w": 0.7249103784561157
+    },
+    "created": 1652293094864521,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.38701248168945,
+        "y": 12.330768585205078,
+        "z": 87.6031494140625,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{619bdb01-71b3-4648-a093-7b56b1c0f089}",
+    "type": "Model",
+    "lastEdited": 1652293217093038,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": -1.3300857543945312,
+        "y": -4.6336669921875,
+        "z": -10.531463623046875
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 3.0568766593933105
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688868522644043,
+        "z": -0.0000457763671875,
+        "w": 0.7249103784561157
+    },
+    "created": 1652293094864486,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 47.991783142089844,
+        "y": 17.422239303588867,
+        "z": 90.06396484375,
+        "scale": 5.680167198181152
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{daec9695-d090-4626-a427-202007492eae}",
+    "type": "Box",
+    "lastEdited": 1652293217083585,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": -2.7517852783203125,
+        "y": -2.401121139526367,
+        "z": -10.623836517333984
+    },
+    "dimensions": {
+        "x": 1.5540648698806763,
+        "y": 0.0010000000474974513,
+        "z": 3.9594759941101074
+    },
+    "rotation": {
+        "x": -0.7140154242515564,
+        "y": 0.0019378662109375,
+        "z": 0.00886547565460205,
+        "w": 0.7000992298126221
+    },
+    "created": 1652293094864824,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 47.61836242675781,
+        "y": 20.368486404418945,
+        "z": 91.69759368896484,
+        "scale": 4.253536224365234
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c4e764bd-5b40-4ec6-b4b8-b3e46c06007e}",
+    "type": "Box",
+    "lastEdited": 1652293217082119,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": 3.8618545532226562,
+        "y": -9.52028751373291,
+        "z": -10.59286117553711
+    },
+    "dimensions": {
+        "x": 3.266928195953369,
+        "y": 0.0010000000474974513,
+        "z": 0.6119470596313477
+    },
+    "rotation": {
+        "x": -0.7109330892562866,
+        "y": 0.00907909870147705,
+        "z": 0.012558221817016602,
+        "w": 0.7030594348907471
+    },
+    "created": 1652293094865266,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 52.862117767333984,
+        "y": 13.71237850189209,
+        "z": 87.59344482421875,
+        "scale": 3.3237478733062744
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d3460e3f-fac6-4971-b020-eb2e3bcd9120}",
+    "type": "Box",
+    "lastEdited": 1652293217083115,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": 0.04502105712890625,
+        "y": -7.01609992980957,
+        "z": -10.530853271484375
+    },
+    "dimensions": {
+        "x": 3.2241101264953613,
+        "y": 0.0010000000474974513,
+        "z": 4.457411289215088
+    },
+    "rotation": {
+        "x": -0.7108720541000366,
+        "y": 0.00910961627960205,
+        "z": 0.012619256973266602,
+        "w": 0.7031204700469971
+    },
+    "created": 1652293094864850,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 49.07072067260742,
+        "y": 15.128899574279785,
+        "z": 89.19949340820312,
+        "scale": 5.501218318939209
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{1d3e3aba-79b4-44d4-b936-74099ce73119}",
+    "type": "Box",
+    "lastEdited": 1652293217073440,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(2)",
+    "position": {
+        "x": -9.48819351196289,
+        "y": -11.531845092773438,
+        "z": -10.217435836791992
+    },
+    "dimensions": {
+        "x": 0.8802288770675659,
+        "y": 0.0010000000474974513,
+        "z": 4.676482200622559
+    },
+    "rotation": {
+        "x": -0.7112687826156616,
+        "y": 0.00895702838897705,
+        "z": 0.012161493301391602,
+        "w": 0.7027847766876221
+    },
+    "created": 1652293094864304,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 42.80049514770508,
+        "y": 10.987150192260742,
+        "z": 96.41856384277344,
+        "scale": 4.758601665496826
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 250,
+        "green": 250,
+        "blue": 250
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{52f8ee30-4843-44c6-9b40-7ee58a5e28c6}",
+    "type": "Model",
+    "lastEdited": 1652293217092191,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(2)",
+    "position": {
+        "x": -10.809062957763672,
+        "y": -13.818771362304688,
+        "z": -10.10063362121582
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": -0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094863934,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 40.906822204589844,
+        "y": 7.6763787269592285,
+        "z": 96.3963851928711,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ba79c214-37d6-404e-95eb-aca2cc044163}",
+    "type": "Model",
+    "lastEdited": 1652293217094619,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "position": {
+        "x": -10.810230255126953,
+        "y": -4.635725021362305,
+        "z": -10.099878311157227
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688838005065918,
+        "z": -0.0000152587890625,
+        "w": 0.7249408960342407
+    },
+    "created": 1652293094864056,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 40.9075927734375,
+        "y": 16.859424591064453,
+        "z": 96.39517974853516,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8be5d198-21d9-47db-90f9-42efc0a00e4d}",
+    "type": "Box",
+    "lastEdited": 1652293217078440,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -9.072872161865234,
+        "y": -2.458698272705078,
+        "z": -10.186033248901367
+    },
+    "dimensions": {
+        "x": 1.834189772605896,
+        "y": 0.0010000000474974513,
+        "z": 3.7852578163146973
+    },
+    "rotation": {
+        "x": -0.7116655111312866,
+        "y": 0.027176260948181152,
+        "z": 0.029495716094970703,
+        "w": 0.7013809680938721
+    },
+    "created": 1652293094865129,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 43.39836120605469,
+        "y": 20.336366653442383,
+        "z": 96.4263687133789,
+        "scale": 4.206236839294434
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 250,
+        "green": 233,
+        "blue": 50
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{80247826-ff45-4261-91a0-11e5d42b8ae1}",
+    "type": "Box",
+    "lastEdited": 1652293217077644,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -7.781883239746094,
+        "y": -9.57478141784668,
+        "z": -10.310752868652344
+    },
+    "dimensions": {
+        "x": 2.9619016647338867,
+        "y": 0.0010000000474974513,
+        "z": 0.6119470596313477
+    },
+    "rotation": {
+        "x": -0.7114213705062866,
+        "y": 0.00889599323272705,
+        "z": 0.011978387832641602,
+        "w": 0.7026321887969971
+    },
+    "created": 1652293094865021,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.83059310913086,
+        "y": 13.810800552368164,
+        "z": 96.03289031982422,
+        "scale": 3.0244572162628174
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4422c856-0f69-4474-baae-7983906aa15b}",
+    "type": "Model",
+    "lastEdited": 1652293217091360,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(2)",
+    "position": {
+        "x": -10.809652328491211,
+        "y": -9.160514831542969,
+        "z": -10.100257873535156
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688868522644043,
+        "z": -0.0000457763671875,
+        "w": 0.7249103784561157
+    },
+    "created": 1652293094863646,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 40.90721130371094,
+        "y": 12.334634780883789,
+        "z": 96.39576721191406,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{516ba9cb-89dc-4227-9b01-33ec556d01dc}",
+    "type": "Box",
+    "lastEdited": 1652293217074968,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -4.673366546630859,
+        "y": -7.0656585693359375,
+        "z": -10.5087890625
+    },
+    "dimensions": {
+        "x": 1.2798787355422974,
+        "y": 0.0010000000474974513,
+        "z": 4.392391204833984
+    },
+    "rotation": {
+        "x": -0.7135881185531616,
+        "y": 0.0021514892578125,
+        "z": 0.00944530963897705,
+        "w": 0.7005264759063721
+    },
+    "created": 1652293094864394,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 46.15447235107422,
+        "y": 15.543733596801758,
+        "z": 92.95548248291016,
+        "scale": 4.575061798095703
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0965b103-2225-4fe7-89bd-3034f5f08e7f}",
+    "type": "Box",
+    "lastEdited": 1652293217072617,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -8.159858703613281,
+        "y": -4.591880798339844,
+        "z": -10.244400024414062
+    },
+    "dimensions": {
+        "x": 3.713912010192871,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7115129232406616,
+        "y": 0.00883495807647705,
+        "z": 0.011856317520141602,
+        "w": 0.7025406360626221
+    },
+    "created": 1652293094864457,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.23678970336914,
+        "y": 18.425273895263672,
+        "z": 95.97321319580078,
+        "scale": 3.7615408897399902
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a2bc69ba-fffe-4d70-bfbc-02ca6a74ef37}",
+    "type": "Box",
+    "lastEdited": 1652293217079327,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": 0.08446502685546875,
+        "y": -0.18306732177734375,
+        "z": -10.639163970947266
+    },
+    "dimensions": {
+        "x": 20.171764373779297,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7117875814437866,
+        "y": 0.00871288776397705,
+        "z": 0.01152050495147705,
+        "w": 0.7022659778594971
+    },
+    "created": 1652293094863783,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 41.68499755859375,
+        "y": 14.622222900390625,
+        "z": 81.7525863647461,
+        "scale": 20.180587768554688
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{752238df-e62b-494b-a025-8561728b8f5a}",
+    "type": "Model",
+    "lastEdited": 1652293217093461,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": -5.979331970214844,
+        "y": -13.817421913146973,
+        "z": -10.345661163330078
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688868522644043,
+        "z": -0.0000457763671875,
+        "w": 0.7249103784561157
+    },
+    "created": 1652293094863813,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.211395263671875,
+        "y": 7.676355838775635,
+        "z": 92.8657455444336,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{3e6663c2-0726-453a-959e-fbf10206025c}",
+    "type": "Box",
+    "lastEdited": 1652293217074059,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -6.077274322509766,
+        "y": -9.546093940734863,
+        "z": -10.416122436523438
+    },
+    "dimensions": {
+        "x": 1.4723920822143555,
+        "y": 0.0010000000474974513,
+        "z": 0.7203929424285889
+    },
+    "rotation": {
+        "x": -0.7116044759750366,
+        "y": 0.00874340534210205,
+        "z": 0.01167309284210205,
+        "w": 0.7024185657501221
+    },
+    "created": 1652293094865074,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 46.67643737792969,
+        "y": 14.531641006469727,
+        "z": 95.46582794189453,
+        "scale": 1.6391782760620117
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{622b6dec-73ea-46bb-a8b1-2d35f5e5a75a}",
+    "type": "Box",
+    "lastEdited": 1652293217075442,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -6.089656829833984,
+        "y": -6.780797958374023,
+        "z": -10.450626373291016
+    },
+    "dimensions": {
+        "x": 1.4723920822143555,
+        "y": 0.0010000000474974513,
+        "z": 4.944255828857422
+    },
+    "rotation": {
+        "x": -0.7116044759750366,
+        "y": 0.00880444049835205,
+        "z": 0.011734247207641602,
+        "w": 0.7024490833282471
+    },
+    "created": 1652293094864795,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.88405990600586,
+        "y": 15.53710651397705,
+        "z": 93.68899536132812,
+        "scale": 5.158837795257568
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2c5c7cd0-7a8b-44ad-9054-1277a3d4884d}",
+    "type": "Box",
+    "lastEdited": 1652293217073646,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -8.553512573242188,
+        "y": -7.08936882019043,
+        "z": -10.167818069458008
+    },
+    "dimensions": {
+        "x": 3.5944106578826904,
+        "y": 0.0010000000474974513,
+        "z": 4.3808393478393555
+    },
+    "rotation": {
+        "x": -0.7112077474594116,
+        "y": 0.027390003204345703,
+        "z": 0.030014514923095703,
+        "w": 0.7017776966094971
+    },
+    "created": 1652293094864905,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 43.05388641357422,
+        "y": 14.975321769714355,
+        "z": 95.34982299804688,
+        "scale": 5.6667046546936035
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 250,
+        "green": 233,
+        "blue": 50
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0c6c3780-8ebb-4218-826d-c6c82c34110a}",
+    "type": "Model",
+    "lastEdited": 1652293217084938,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": -5.980495452880859,
+        "y": -4.634843826293945,
+        "z": -10.344902038574219
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688868522644043,
+        "z": -0.0000457763671875,
+        "w": 0.7249103784561157
+    },
+    "created": 1652293094864362,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.21217346191406,
+        "y": 16.85893440246582,
+        "z": 92.86454772949219,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a896affa-70ae-4bf7-912a-bf74fd93bba4}",
+    "type": "Box",
+    "lastEdited": 1652293217079619,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -6.118141174316406,
+        "y": -2.44195556640625,
+        "z": -10.432418823242188
+    },
+    "dimensions": {
+        "x": 1.6198740005493164,
+        "y": 0.0010000000474974513,
+        "z": 3.930999755859375
+    },
+    "rotation": {
+        "x": -0.7141680121421814,
+        "y": 0.0018463134765625,
+        "z": 0.00865185260772705,
+        "w": 0.6999466419219971
+    },
+    "created": 1652293094865184,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 45.33030700683594,
+        "y": 20.329540252685547,
+        "z": 94.17425537109375,
+        "scale": 4.251676559448242
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{9a6c18d8-5e53-404d-946e-2e9138dd9957}",
+    "type": "Box",
+    "lastEdited": 1652293217079004,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -7.5809783935546875,
+        "y": -11.826212882995605,
+        "z": -10.272087097167969
+    },
+    "dimensions": {
+        "x": 2.9629950523376465,
+        "y": 0.0010000000474974513,
+        "z": 4.070005416870117
+    },
+    "rotation": {
+        "x": -0.7111772298812866,
+        "y": 0.00898754596710205,
+        "z": 0.012283563613891602,
+        "w": 0.7028763294219971
+    },
+    "created": 1652293094865047,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 43.99679946899414,
+        "y": 10.554390907287598,
+        "z": 94.9168701171875,
+        "scale": 5.034310817718506
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{aa2f2044-581f-4611-a87f-b4d7cc54d9b6}",
+    "type": "Model",
+    "lastEdited": 1652293217094202,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": -5.979915618896484,
+        "y": -9.148415565490723,
+        "z": -10.345272064208984
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 4.719041347503662,
+        "z": 4.839029312133789
+    },
+    "rotation": {
+        "x": 0.0000457763671875,
+        "y": -0.688868522644043,
+        "z": -0.0000457763671875,
+        "w": 0.7249103784561157
+    },
+    "created": 1652293094864425,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.21179962158203,
+        "y": 12.345361709594727,
+        "z": 92.8651351928711,
+        "scale": 6.807055473327637
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{6af0bf41-2543-4347-a11b-de80ca7ed38b}",
+    "type": "Box",
+    "lastEdited": 1652293217075931,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -6.019828796386719,
+        "y": -11.826406478881836,
+        "z": -10.437294006347656
+    },
+    "dimensions": {
+        "x": 1.4723920822143555,
+        "y": 0.0010000000474974513,
+        "z": 4.058063507080078
+    },
+    "rotation": {
+        "x": -0.7114824056625366,
+        "y": 0.00886547565460205,
+        "z": 0.011886835098266602,
+        "w": 0.7025711536407471
+    },
+    "created": 1652293094865102,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 45.363922119140625,
+        "y": 10.91243839263916,
+        "z": 94.07245635986328,
+        "scale": 4.316922664642334
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 247,
+        "green": 54,
+        "blue": 54
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{1c4b0dcd-d880-4c98-8b43-21459fcb098b}",
+    "type": "Box",
+    "lastEdited": 1652293217073230,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": -3.910511016845703,
+        "y": -4.573575973510742,
+        "z": -10.431594848632812
+    },
+    "dimensions": {
+        "x": 3.713912010192871,
+        "y": 0.0010000000474974513,
+        "z": 0.5966957807540894
+    },
+    "rotation": {
+        "x": -0.7113603353500366,
+        "y": 0.00892651081085205,
+        "z": 0.012069940567016602,
+        "w": 0.7026932239532471
+    },
+    "created": 1652293094864332,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 47.16397476196289,
+        "y": 18.442373275756836,
+        "z": 92.88726806640625,
+        "scale": 3.7615408897399902
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ba6c8319-d004-4152-8d84-929c8cf05042}",
+    "type": "Box",
+    "lastEdited": 1652293217081516,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -3.5901107788085938,
+        "y": -11.809283256530762,
+        "z": -10.473285675048828
+    },
+    "dimensions": {
+        "x": 3.3819074630737305,
+        "y": 0.0010000000474974513,
+        "z": 4.066334247589111
+    },
+    "rotation": {
+        "x": -0.7112382650375366,
+        "y": 0.00895702838897705,
+        "z": 0.012192010879516602,
+        "w": 0.7028152942657471
+    },
+    "created": 1652293094864151,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 46.60100173950195,
+        "y": 10.44289779663086,
+        "z": 91.87308502197266,
+        "scale": 5.288891792297363
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 63,
+        "green": 63,
+        "blue": 209
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{5fd11a37-74cc-496e-98f2-a6bdc3d98a69}",
+    "type": "Box",
+    "lastEdited": 1652293217075219,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": -4.389488220214844,
+        "y": -2.4211158752441406,
+        "z": -10.595699310302734
+    },
+    "dimensions": {
+        "x": 1.799285888671875,
+        "y": 0.0010000000474974513,
+        "z": 3.941291332244873
+    },
+    "rotation": {
+        "x": -0.7137407064437866,
+        "y": 0.0020599365234375,
+        "z": 0.00923168659210205,
+        "w": 0.7003738880157471
+    },
+    "created": 1652293094864740,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 46.42013931274414,
+        "y": 20.309429168701172,
+        "z": 92.81574249267578,
+        "scale": 4.33257532119751
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 63,
+        "green": 63,
+        "blue": 209
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b61e142e-c1d5-4ae0-b895-1e63da2a5e36}",
+    "type": "Box",
+    "lastEdited": 1652293217081128,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -7.523441314697266,
+        "y": -2.4869136810302734,
+        "z": -10.173137664794922
+    },
+    "dimensions": {
+        "x": 1.3977534770965576,
+        "y": 0.0010000000474974513,
+        "z": 3.8595242500305176
+    },
+    "rotation": {
+        "x": -0.7138933539390564,
+        "y": 0.0019683837890625,
+        "z": 0.00901806354522705,
+        "w": 0.7002213001251221
+    },
+    "created": 1652293094865156,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 44.57275390625,
+        "y": 20.35842514038086,
+        "z": 95.41024780273438,
+        "scale": 4.104831695556641
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 242,
+        "green": 242,
+        "blue": 245
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{1561eb32-2967-4c6e-b2c4-0527edfe682c}",
+    "type": "Box",
+    "lastEdited": 1652293217073032,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(5)",
+    "position": {
+        "x": -3.6403160095214844,
+        "y": -9.557433128356934,
+        "z": -10.452800750732422
+    },
+    "dimensions": {
+        "x": 3.451115608215332,
+        "y": 0.0010000000474974513,
+        "z": 0.6119470596313477
+    },
+    "rotation": {
+        "x": -0.7116960287094116,
+        "y": 0.00877392292022705,
+        "z": 0.01164257526397705,
+        "w": 0.7023575305938721
+    },
+    "created": 1652293094864635,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 47.47134780883789,
+        "y": 13.5867338180542,
+        "z": 92.81404113769531,
+        "scale": 3.504950761795044
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ce485975-95ad-4a40-8177-77889dcb31b2}",
+    "type": "Box",
+    "lastEdited": 1652293217082431,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(6)",
+    "position": {
+        "x": -3.021778106689453,
+        "y": -7.059211730957031,
+        "z": -10.536998748779297
+    },
+    "dimensions": {
+        "x": 2.0711779594421387,
+        "y": 0.0010000000474974513,
+        "z": 4.3705735206604
+    },
+    "rotation": {
+        "x": -0.7134965658187866,
+        "y": 0.0021820068359375,
+        "z": 0.00953686237335205,
+        "w": 0.7006180286407471
+    },
+    "created": 1652293094864767,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 47.19240188598633,
+        "y": 15.419001579284668,
+        "z": 91.65740203857422,
+        "scale": 4.836495876312256
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 63,
+        "green": 63,
+        "blue": 209
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0394247c-86ba-4f1c-a9a3-a0da57443dfa}",
+    "type": "Model",
+    "lastEdited": 1652293217084627,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(3)",
+    "position": {
+        "x": -31.748981475830078,
+        "y": -14.328592300415039,
+        "z": 8.839027404785156
+    },
+    "dimensions": {
+        "x": 0.797709584236145,
+        "y": 14.476241111755371,
+        "z": 20.665782928466797
+    },
+    "rotation": {
+        "x": 0.0001068115234375,
+        "y": -0.7140459418296814,
+        "z": -0.0002593994140625,
+        "w": 0.7001297473907471
+    },
+    "created": 1652293094863751,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 29.776927947998047,
+        "y": -2.0439834594726562,
+        "z": 115.3472900390625,
+        "scale": 25.24425506591797
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionMask": 23,
+    "collidesWith": "static,dynamic,kinematic,otherAvatar,",
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c847bc03-1f04-4a0c-bd55-e3f412da41bd}",
+    "type": "Model",
+    "lastEdited": 1652293217095034,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 9.847640991210938,
+        "y": -14.41181468963623,
+        "z": 10.431327819824219
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 14.635851860046387,
+        "z": 20.387859344482422
+    },
+    "rotation": {
+        "x": 0.0001373291015625,
+        "y": -0.00938427448272705,
+        "z": -0.0000152587890625,
+        "w": 0.99993896484375
+    },
+    "created": 1652293094864022,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 60.87652587890625,
+        "y": -2.0715694427490234,
+        "z": 87.670166015625,
+        "scale": 25.110225677490234
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{de78a9fa-b11a-481a-88d5-8933373fc31f}",
+    "type": "Model",
+    "lastEdited": 1652293217095831,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": -11.094917297363281,
+        "y": -14.411282539367676,
+        "z": 10.040912628173828
+    },
+    "dimensions": {
+        "x": 0.8065048456192017,
+        "y": 14.635851860046387,
+        "z": 20.387859344482422
+    },
+    "rotation": {
+        "x": 0.0001678466796875,
+        "y": -0.00938427448272705,
+        "z": -0.0000457763671875,
+        "w": 0.99993896484375
+    },
+    "created": 1652293094864270,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 45.538246154785156,
+        "y": -2.0652599334716797,
+        "z": 101.93433380126953,
+        "scale": 25.110225677490234
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "type": "Model",
+    "lastEdited": 1652293163915330,
+    "dimensions": {
+        "x": 21.09520721435547,
+        "y": 0.30843693017959595,
+        "z": 20.107589721679688
+    },
+    "rotation": {
+        "x": -0.0001068115234375,
+        "y": 0.37453269958496094,
+        "z": -0.0001068115234375,
+        "w": 0.927183985710144
+    },
+    "created": 1652207078342656,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": -14.572388648986816,
+        "y": -14.572388648986816,
+        "z": -14.572388648986816,
+        "scale": 29.144777297973633
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Plate_Pavement_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{dee41e6c-9ee2-43ca-a875-922d12bbad96}",
+    "type": "Model",
+    "lastEdited": 1652293217096263,
+    "parentID": "{8809fb33-525b-45e2-bd5b-9096665fb332}",
+    "name": "(4)",
+    "position": {
+        "x": 10.228771209716797,
+        "y": -14.080422401428223,
+        "z": 9.639545440673828
+    },
+    "dimensions": {
+        "x": 0.797709584236145,
+        "y": 14.476241111755371,
+        "z": 20.665782928466797
+    },
+    "rotation": {
+        "x": 0.0001068115234375,
+        "y": -0.7139238715171814,
+        "z": -0.0002593994140625,
+        "w": 0.7002518177032471
+    },
+    "created": 1652293094863847,
+    "lastEditedBy": "{1018e90f-049e-498a-b81f-b60fb93f16eb}",
+    "queryAACube": {
+        "x": 60.53384780883789,
+        "y": -1.8073921203613281,
+        "z": 86.76870727539062,
+        "scale": 25.24425506591797
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionMask": 23,
+    "collidesWith": "static,dynamic,kinematic,otherAvatar,",
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/medieval-town-base/Grey_Wall_01.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{7830b113-fcfc-4a03-b7b8-ef8d624a64b3}",
+  "Version": 133
+}

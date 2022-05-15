@@ -1,0 +1,255 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{c21776e3-6e01-415f-95e3-70f8a085c086}",
+    "type": "Model",
+    "lastEdited": 1652352983855076,
+    "parentID": "{c0a192af-36c1-46df-9c03-b989fe00973a}",
+    "name": "Bird-Gull-Flying-Animated (2)",
+    "position": {
+        "x": 2.0080208778381348,
+        "y": 1.1880768537521362,
+        "z": -13.496244430541992
+    },
+    "dimensions": {
+        "x": 0.8276191353797913,
+        "y": 0.22055482864379883,
+        "z": 0.7192896604537964
+    },
+    "rotation": {
+        "x": -0.0008087158203125,
+        "y": 0.5682917833328247,
+        "z": -0.0026398301124572754,
+        "w": 0.8227816820144653
+    },
+    "created": 1652352984759793,
+    "lastEditedBy": "{255750ab-e2d2-4630-b10d-776197a02c2f}",
+    "queryAACube": {
+        "x": 4.95671272277832,
+        "y": 1.650374412536621,
+        "z": -12.759809494018555,
+        "scale": 1.1184701919555664
+    },
+    "ignorePickIntersection": true,
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/gull_Anim/original/gull_Anim.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "url": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/gull_Anim/original/gull_Anim.fbx",
+        "allowTranslation": false,
+        "fps": 28,
+        "currentFrame": 71026.9453125,
+        "running": true
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{17c6e052-2947-4d8e-aa4c-8544684953b2}",
+    "type": "Model",
+    "lastEdited": 1652353044973465,
+    "parentID": "{c0a192af-36c1-46df-9c03-b989fe00973a}",
+    "name": "Bird-Gull-Flying-Animated",
+    "position": {
+        "x": 9.994946479797363,
+        "y": 3.002424716949463,
+        "z": -11.975428581237793
+    },
+    "dimensions": {
+        "x": 0.6002309322357178,
+        "y": 0.1599574238061905,
+        "z": 0.5216649770736694
+    },
+    "rotation": {
+        "x": -0.0008087158203125,
+        "y": 0.5682917833328247,
+        "z": -0.0033112168312072754,
+        "w": 0.8227816820144653
+    },
+    "created": 1652352813737485,
+    "lastEditedBy": "{255750ab-e2d2-4630-b10d-776197a02c2f}",
+    "queryAACube": {
+        "x": 13.097296714782715,
+        "y": 3.6181745529174805,
+        "z": -11.08515453338623,
+        "scale": 0.8111706376075745
+    },
+    "ignorePickIntersection": true,
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/gull_Anim/original/gull_Anim.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "url": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/gull_Anim/original/gull_Anim.fbx",
+        "allowTranslation": false,
+        "fps": 28,
+        "currentFrame": 70236.84375,
+        "running": true
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{90694231-6516-435f-9305-4759c030d185}",
+    "type": "Model",
+    "lastEdited": 1652353074951727,
+    "parentID": "{c0a192af-36c1-46df-9c03-b989fe00973a}",
+    "name": "Bird-Gull-Flying-Animated (2)",
+    "position": {
+        "x": 6.927728652954102,
+        "y": -0.08304589986801147,
+        "z": -17.78691291809082
+    },
+    "dimensions": {
+        "x": 0.8276191353797913,
+        "y": 0.22055482864379883,
+        "z": 0.7192896604537964
+    },
+    "rotation": {
+        "x": -0.0008087158203125,
+        "y": 0.5682917833328247,
+        "z": -0.0024567246437072754,
+        "w": 0.8227816820144653
+    },
+    "created": 1652352978468280,
+    "lastEditedBy": "{255750ab-e2d2-4630-b10d-776197a02c2f}",
+    "queryAACube": {
+        "x": 9.87651252746582,
+        "y": 0.3789704442024231,
+        "z": -17.050289154052734,
+        "scale": 1.1184701919555664
+    },
+    "ignorePickIntersection": true,
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/gull_Anim/original/gull_Anim.fbx",
+    "blendshapeCoefficients": "{\n}\n",
+    "animation": {
+        "url": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/gull_Anim/original/gull_Anim.fbx",
+        "allowTranslation": false,
+        "fps": 28,
+        "currentFrame": 70764.171875,
+        "running": true
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c0a192af-36c1-46df-9c03-b989fe00973a}",
+    "type": "Shape",
+    "lastEdited": 1652352960328131,
+    "name": "EixoPassaros",
+    "dimensions": {
+        "x": 1.4283865690231323,
+        "y": 1.4283865690231323,
+        "z": 1.4283865690231323
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.0000152587890625,
+        "z": -0.0000152587890625,
+        "w": 1
+    },
+    "created": 1652352892042585,
+    "lastEditedBy": "{255750ab-e2d2-4630-b10d-776197a02c2f}",
+    "queryAACube": {
+        "x": -1.2370190620422363,
+        "y": -1.2370190620422363,
+        "z": -1.2370190620422363,
+        "scale": 2.4740381240844727
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 0,
+        "green": 180,
+        "blue": 239
+    },
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{041190d2-a84f-4bd3-a6c9-576dd11ad8ef}",
+  "Version": 133
+}
