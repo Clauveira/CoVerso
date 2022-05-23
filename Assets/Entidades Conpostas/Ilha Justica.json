@@ -1,0 +1,2819 @@
+{
+  "DataVersion": 0,
+  "Entities": [
+    {
+    "id": "{b6fb49fb-c4fa-46af-9222-2dba3a0eaa6a}",
+    "type": "Model",
+    "lastEdited": 1652796440362476,
+    "visible": false,
+    "name": "Sound Emitter Rainforest-Birds",
+    "userData": "{\"shouldLoop\":true,\"soundURL\":\"https://github.com/Clauveira/CoVerso/raw/main/Assets/Sounds/musica%20%C3%B3rg%C3%A3o%20igreja.mp3\",\"volume\":0.3}",
+    "description": "Specify URL to your 48K 16bit PCM wav file & volume (0-1) in userData below",
+    "position": {
+        "x": 54.278656005859375,
+        "y": 15.115280151367188,
+        "z": 15.754653930664062
+    },
+    "dimensions": {
+        "x": 0.6447294354438782,
+        "y": 0.6438502073287964,
+        "z": 0.26574596762657166
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.7563744783401489,
+        "z": -0.0000457763671875,
+        "w": 0.6541390419006348
+    },
+    "created": 1652705428766720,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 53.80409240722656,
+        "y": 14.640717506408691,
+        "z": 15.280091285705566,
+        "scale": 0.9491259455680847
+    },
+    "renderWithZones": [
+        "{bc83e6f5-7003-4484-9915-af1c7ff5c20a}"
+    ],
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "serverScripts": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/Releases/usefulUtilities/soundEmitter/v1.2/soundEmitter.js",
+    "marketplaceID": "85b89b87-07d0-4842-b364-e6a74a56c7b6",
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/speakerGizmo/baked/speakerGizmo.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{eeab84be-d104-4f25-b237-d4a84b02e3b2}",
+    "type": "Model",
+    "lastEdited": 1652796440357644,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": -31.96546173095703,
+        "y": 1.3032913208007812,
+        "z": -34.801231384277344
+    },
+    "dimensions": {
+        "x": 8.218724250793457,
+        "y": 23.881528854370117,
+        "z": 8.218724250793457
+    },
+    "rotation": {
+        "x": 0.20006108283996582,
+        "y": 0.07576107978820801,
+        "z": -0.9728999733924866,
+        "w": -0.08787667751312256
+    },
+    "created": 1652621140033536,
+    "lastEditedBy": "{a050c3ba-c11b-48bf-a37c-8b6e5d43c95a}",
+    "queryAACube": {
+        "x": 214.4523468017578,
+        "y": 99.22947692871094,
+        "z": 95.06883239746094,
+        "scale": 26.559785842895508
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_pineDefaultB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d96201b6-fa51-4f17-8aef-21dcb93ec4b2}",
+    "type": "Model",
+    "lastEdited": 1652796440357851,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "position": {
+        "x": 31.368560791015625,
+        "y": 2.0479965209960938,
+        "z": 4.186120986938477
+    },
+    "dimensions": {
+        "x": 6.606253623962402,
+        "y": 14.944019317626953,
+        "z": 5.721181392669678
+    },
+    "rotation": {
+        "x": 0.14903485774993896,
+        "y": -0.03349357843399048,
+        "z": -0.9871214032173157,
+        "w": 0.047775983810424805
+    },
+    "created": 1651692219138048,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 170.8692626953125,
+        "y": 103.10267639160156,
+        "z": 156.32052612304688,
+        "scale": 17.31179428100586
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/tree_default_dark.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{47ce46ce-8aa9-4112-b6c9-d6e767ceb390}",
+    "type": "Model",
+    "lastEdited": 1652796440358232,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -7.31402587890625,
+        "y": 0.185821533203125,
+        "z": -7.290351867675781
+    },
+    "dimensions": {
+        "x": 1.8238526582717896,
+        "y": 1.2156654596328735,
+        "z": 1.877020001411438
+    },
+    "rotation": {
+        "x": 0.2629587650299072,
+        "y": -0.015274286270141602,
+        "z": 0.9631341695785522,
+        "w": 0.054184794425964355
+    },
+    "created": 1652622213775360,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 241.4148406982422,
+        "y": 115.01905822753906,
+        "z": 145.18556213378906,
+        "scale": 2.8857381343841553
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/grass.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f58cf8f2-74c6-4a02-b6b1-f85ab2c9937c}",
+    "type": "Model",
+    "lastEdited": 1652796440359189,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -7.123687744140625,
+        "y": 0.05397796630859375,
+        "z": -4.8122711181640625
+    },
+    "dimensions": {
+        "x": 2.1275763511657715,
+        "y": 0.10637881606817245,
+        "z": 1.3190973997116089
+    },
+    "rotation": {
+        "x": 0.5796139240264893,
+        "y": -0.006088376045227051,
+        "z": 0.8148164749145508,
+        "w": 0.007461667060852051
+    },
+    "created": 1652621811122176,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 242.68865966796875,
+        "y": 115.31675720214844,
+        "z": 147.6136016845703,
+        "scale": 2.5055768489837646
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_dirtRow.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c683e55d-0080-42b8-9ea5-477c7e53e39b}",
+    "type": "Model",
+    "lastEdited": 1652796440358419,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -6.45147705078125,
+        "y": 0.043365478515625,
+        "z": -6.74749755859375
+    },
+    "dimensions": {
+        "x": 2.1275763511657715,
+        "y": 0.10637881606817245,
+        "z": 1.3190973997116089
+    },
+    "rotation": {
+        "x": 0.5795834064483643,
+        "y": -0.006057858467102051,
+        "z": 0.8148164749145508,
+        "w": 0.007431149482727051
+    },
+    "created": 1652621811122176,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 241.1288604736328,
+        "y": 115.25332641601562,
+        "z": 146.2869110107422,
+        "scale": 2.5055768489837646
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_dirtRow.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{e52da835-3cee-41d3-89b4-82a0153031e0}",
+    "type": "Model",
+    "lastEdited": 1652796440359365,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": -7.76715087890625,
+        "y": 0.0641326904296875,
+        "z": -2.9598922729492188
+    },
+    "dimensions": {
+        "x": 2.1275763511657715,
+        "y": 0.10637881606817245,
+        "z": 1.3190973997116089
+    },
+    "rotation": {
+        "x": 0.5796749591827393,
+        "y": -0.006057858467102051,
+        "z": 0.8147859573364258,
+        "w": 0.007461667060852051
+    },
+    "created": 1652621811122176,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 244.18170166015625,
+        "y": 115.37747955322266,
+        "z": 148.8834686279297,
+        "scale": 2.5055768489837646
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_dirtRow.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{7d9e8874-b970-461a-ab7a-3c6068977193}",
+    "type": "Model",
+    "lastEdited": 1652796440357929,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -6.9264984130859375,
+        "y": 0.08113861083984375,
+        "z": -4.969970703125
+    },
+    "dimensions": {
+        "x": 1.3197338581085205,
+        "y": 1.497911810874939,
+        "z": 1.092504620552063
+    },
+    "rotation": {
+        "x": 0.4887923002243042,
+        "y": -0.028000295162200928,
+        "z": 0.8705729246139526,
+        "w": 0.048874616622924805
+    },
+    "created": 1652621945339904,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 242.55728149414062,
+        "y": 115.38265228271484,
+        "z": 147.690673828125,
+        "scale": 2.275742530822754
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_wheatStageB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{771d6c85-6415-4ec7-842c-1fb790a4a16b}",
+    "type": "Model",
+    "lastEdited": 1652796440358852,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -8.015914916992188,
+        "y": 0.2978515625,
+        "z": -2.7703781127929688
+    },
+    "dimensions": {
+        "x": 1.3197338581085205,
+        "y": 1.30830717086792,
+        "z": 1.092504620552063
+    },
+    "rotation": {
+        "x": 0.4883650541305542,
+        "y": -0.027969777584075928,
+        "z": 0.8707865476608276,
+        "w": 0.048905134201049805
+    },
+    "created": 1652621945339904,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 244.6884002685547,
+        "y": 115.34799194335938,
+        "z": 149.08253479003906,
+        "scale": 2.1556742191314697
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_wheatStageB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{35e7ab62-6f93-45a1-a15b-73725ce8007f}",
+    "type": "Model",
+    "lastEdited": 1652796440358823,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -6.557037353515625,
+        "y": 0.11911773681640625,
+        "z": -6.096923828125
+    },
+    "dimensions": {
+        "x": 1.3499118089675903,
+        "y": 1.9857923984527588,
+        "z": 1.117486596107483
+    },
+    "rotation": {
+        "x": 0.4891279935836792,
+        "y": -0.028000295162200928,
+        "z": 0.8703898191452026,
+        "w": 0.048874616622924805
+    },
+    "created": 1652621945339904,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 241.48568725585938,
+        "y": 115.1179428100586,
+        "z": 146.7180938720703,
+        "scale": 2.6484732627868652
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_wheatStageB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{cf02e583-19c9-44a8-896c-b9e5d2fc2d61}",
+    "type": "Model",
+    "lastEdited": 1652796440358312,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -7.61737060546875,
+        "y": 0.0465850830078125,
+        "z": -3.8521347045898438
+    },
+    "dimensions": {
+        "x": 1.3197338581085205,
+        "y": 1.7200424671173096,
+        "z": 1.092504620552063
+    },
+    "rotation": {
+        "x": 0.4885786771774292,
+        "y": -0.027969777584075928,
+        "z": 0.8706644773483276,
+        "w": 0.048905134201049805
+    },
+    "created": 1652621945339904,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 243.6373291015625,
+        "y": 115.41773223876953,
+        "z": 148.23060607910156,
+        "scale": 2.4277169704437256
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_wheatStageB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{3ebd0438-088d-4602-a88a-7e924b3bdcfa}",
+    "type": "Model",
+    "lastEdited": 1652796440358032,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": -6.3289794921875,
+        "y": 0.21764373779296875,
+        "z": -7.061492919921875
+    },
+    "dimensions": {
+        "x": 1.3499118089675903,
+        "y": 1.7403013706207275,
+        "z": 1.117486596107483
+    },
+    "rotation": {
+        "x": 0.4892195463180542,
+        "y": -0.028030812740325928,
+        "z": 0.8703287839889526,
+        "w": 0.048874616622924805
+    },
+    "created": 1652621945339904,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 240.899169921875,
+        "y": 115.08454132080078,
+        "z": 146.08616638183594,
+        "scale": 2.469754457473755
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crops_wheatStageB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b56fb3b6-7086-449e-95ec-a6f65857be57}",
+    "type": "Model",
+    "lastEdited": 1652796440359223,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -4.5412139892578125,
+        "y": 0.00909423828125,
+        "z": 1.3356399536132812
+    },
+    "dimensions": {
+        "x": 0.7235080599784851,
+        "y": 0.7311318516731262,
+        "z": 0.7253591418266296
+    },
+    "rotation": {
+        "x": 0.2647287845611572,
+        "y": 0.0183565616607666,
+        "z": 0.9630731344223022,
+        "w": 0.044968366622924805
+    },
+    "created": 1652622079557632,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 244.2219696044922,
+        "y": 115.68963623046875,
+        "z": 154.83839416503906,
+        "scale": 1.2586356401443481
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/flower_purpleC.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2d7ea6bd-557a-458f-aa59-b62f4c11f35d}",
+    "type": "Model",
+    "lastEdited": 1652796440359020,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -4.7865447998046875,
+        "y": -0.00197601318359375,
+        "z": 0.4761962890625
+    },
+    "dimensions": {
+        "x": 0.9455002546310425,
+        "y": 0.6936924457550049,
+        "z": 0.9479193091392517
+    },
+    "rotation": {
+        "x": 0.2629587650299072,
+        "y": -0.015274286270141602,
+        "z": 0.9631341695785522,
+        "w": 0.054184794425964355
+    },
+    "created": 1652622213775360,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 243.8694610595703,
+        "y": 115.6042709350586,
+        "z": 153.850341796875,
+        "scale": 1.5078896284103394
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/flower_yellowC.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{75f0445e-639f-48ab-8b5c-2235fadcb6c2}",
+    "type": "Model",
+    "lastEdited": 1652796440360134,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(3)",
+    "position": {
+        "x": -6.40277099609375,
+        "y": 0.07915496826171875,
+        "z": -2.853759765625
+    },
+    "dimensions": {
+        "x": 1.8238526582717896,
+        "y": 1.2156654596328735,
+        "z": 1.877020001411438
+    },
+    "rotation": {
+        "x": 0.6780651807785034,
+        "y": -0.038620591163635254,
+        "z": 0.7327840328216553,
+        "w": 0.041031479835510254
+    },
+    "created": 1652622213775360,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 242.8793182373047,
+        "y": 115.01905059814453,
+        "z": 149.47280883789062,
+        "scale": 2.8857381343841553
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/grass.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{70f514df-2082-417a-ba7a-26ec3b6ad8da}",
+    "type": "Model",
+    "lastEdited": 1652796440360665,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": -4.1311798095703125,
+        "y": 1.5377197265625,
+        "z": -7.764671325683594
+    },
+    "dimensions": {
+        "x": 1.4318506717681885,
+        "y": 2.7568161487579346,
+        "z": 1.4318506717681885
+    },
+    "rotation": {
+        "x": 0.2667124271392822,
+        "y": 0.06874191761016846,
+        "z": 0.9608148336410522,
+        "w": 0.031082630157470703
+    },
+    "created": 1652621811122176,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 238.3126678466797,
+        "y": 113.05099487304688,
+        "z": 146.0384979248047,
+        "scale": 3.420588731765747
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/crop_turnip.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{46f21260-d291-4c57-ba1c-742c6c75e5e6}",
+    "type": "Model",
+    "lastEdited": 1652796440360492,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": -2.535736083984375,
+        "y": 3.3099899291992188,
+        "z": -12.508285522460938
+    },
+    "dimensions": {
+        "x": 2.9320921897888184,
+        "y": 9.773640632629395,
+        "z": 3.507537841796875
+    },
+    "rotation": {
+        "x": 0.14595258235931396,
+        "y": 0.0345616340637207,
+        "z": 0.9874265193939209,
+        "w": 0.049362897872924805
+    },
+    "created": 1652463971074048,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 231.0226593017578,
+        "y": 107.4297866821289,
+        "z": 138.9714813232422,
+        "scale": 10.789997100830078
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/statue_column.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b621389e-84c3-4f7f-81f9-35fa4ce2064a}",
+    "type": "Model",
+    "lastEdited": 1652796440360128,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": -1.7550201416015625,
+        "y": 0.06220245361328125,
+        "z": 9.10540771484375
+    },
+    "dimensions": {
+        "x": 0.7235080599784851,
+        "y": 0.7311318516731262,
+        "z": 0.7253591418266296
+    },
+    "rotation": {
+        "x": 0.2585641145706177,
+        "y": -0.08247500658035278,
+        "z": 0.9597162008285522,
+        "w": 0.07243454456329346
+    },
+    "created": 1652622079557632,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 245.79110717773438,
+        "y": 115.31746673583984,
+        "z": 162.9337158203125,
+        "scale": 1.2586356401443481
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/flower_purpleC.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{c32f3815-ec20-4019-a7da-23d2967a6f2b}",
+    "type": "Model",
+    "lastEdited": 1652796440361062,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": 3.1652984619140625,
+        "y": 0.0500640869140625,
+        "z": 8.586227416992188
+    },
+    "dimensions": {
+        "x": 1.8238526582717896,
+        "y": 1.2156654596328735,
+        "z": 1.877020001411438
+    },
+    "rotation": {
+        "x": 0.2629587650299072,
+        "y": -0.015274286270141602,
+        "z": 0.9631341695785522,
+        "w": 0.054184794425964355
+    },
+    "created": 1652622213775360,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 240.50155639648438,
+        "y": 113.96345520019531,
+        "z": 164.15797424316406,
+        "scale": 2.8857381343841553
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/grass.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{9fcf4ccc-0a18-4440-be07-9355aac92064}",
+    "type": "Model",
+    "lastEdited": 1652796440361250,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(3)",
+    "position": {
+        "x": -2.8901519775390625,
+        "y": 0.25814056396484375,
+        "z": 9.270965576171875
+    },
+    "dimensions": {
+        "x": 1.8238526582717896,
+        "y": 1.2156654596328735,
+        "z": 1.877020001411438
+    },
+    "rotation": {
+        "x": 0.2629587650299072,
+        "y": -0.015274286270141602,
+        "z": 0.9631341695785522,
+        "w": 0.054184794425964355
+    },
+    "created": 1652622213775360,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 246.05206298828125,
+        "y": 114.4366455078125,
+        "z": 161.6782989501953,
+        "scale": 2.8857381343841553
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/grass.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{2a6cc620-e394-41a1-8224-bde04fc286cc}",
+    "type": "Model",
+    "lastEdited": 1652796440360703,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": 3.8594970703125,
+        "y": -0.00835418701171875,
+        "z": 6.510284423828125
+    },
+    "dimensions": {
+        "x": 0.9455002546310425,
+        "y": 0.6936924457550049,
+        "z": 0.9479193091392517
+    },
+    "rotation": {
+        "x": 0.2647287845611572,
+        "y": 0.0183565616607666,
+        "z": 0.9630731344223022,
+        "w": 0.044968366622924805
+    },
+    "created": 1652622079557632,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 239.53575134277344,
+        "y": 114.63410186767578,
+        "z": 163.41287231445312,
+        "scale": 1.5078896284103394
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/flower_yellowC.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ec7b3b84-3bd4-4ab5-afc9-176c21788801}",
+    "type": "Model",
+    "lastEdited": 1652796440361972,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": 4.486907958984375,
+        "y": 0.85797119140625,
+        "z": 9.009002685546875
+    },
+    "dimensions": {
+        "x": 6.0493550300598145,
+        "y": 15.506335258483887,
+        "z": 6.355382919311523
+    },
+    "rotation": {
+        "x": 0.2669870853424072,
+        "y": 0.07695126533508301,
+        "z": 0.9601739645004272,
+        "w": 0.028824329376220703
+    },
+    "created": 1651691413831680,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 232.19775390625,
+        "y": 105.5463638305664,
+        "z": 157.67721557617188,
+        "scale": 17.816621780395508
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/treeFall.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{ce67ce3d-588a-4354-a339-047daf12758b}",
+    "type": "Model",
+    "lastEdited": 1652796440362153,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(2)",
+    "position": {
+        "x": -10.7122802734375,
+        "y": 1.2917327880859375,
+        "z": 20.006729125976562
+    },
+    "dimensions": {
+        "x": 8.218724250793457,
+        "y": 23.881528854370117,
+        "z": 8.218724250793457
+    },
+    "rotation": {
+        "x": 0.20930802822113037,
+        "y": 0.043381452560424805,
+        "z": -0.9747005701065063,
+        "w": 0.0653238296508789
+    },
+    "created": 1651692756008960,
+    "lastEditedBy": "{a050c3ba-c11b-48bf-a37c-8b6e5d43c95a}",
+    "queryAACube": {
+        "x": 211.1504364013672,
+        "y": 99.23538970947266,
+        "z": 153.76022338867188,
+        "scale": 26.559785842895508
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_pineDefaultB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{39da8936-483a-4224-bb51-879c2d9ac5f0}",
+    "type": "Model",
+    "lastEdited": 1652796440361780,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": 5.7980499267578125,
+        "y": 1.0912246704101562,
+        "z": -3.9991378784179688
+    },
+    "dimensions": {
+        "x": 6.550662994384766,
+        "y": 2.9747512340545654,
+        "z": 6.550662994384766
+    },
+    "rotation": {
+        "x": 0.32927441596984863,
+        "y": -0.039780259132385254,
+        "z": 0.9433585405349731,
+        "w": -0.004135191440582275
+    },
+    "created": 1652621274251264,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 228.5308074951172,
+        "y": 109.22110748291016,
+        "z": 151.16590881347656,
+        "scale": 9.729928970336914
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/bridge_stoneRound.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{395cc045-adb7-4607-aadb-e20e10da9745}",
+    "type": "Model",
+    "lastEdited": 1652796440361606,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "position": {
+        "x": -2.0964508056640625,
+        "y": -0.0043487548828125,
+        "z": 3.8025360107421875
+    },
+    "dimensions": {
+        "x": 3.5786070823669434,
+        "y": 0.1919083446264267,
+        "z": 3.3645870685577393
+    },
+    "rotation": {
+        "x": 0.2618296146392822,
+        "y": -0.029037892818450928,
+        "z": 0.9646600484848022,
+        "w": 0.0037384033203125
+    },
+    "created": 1652621676904448,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 241.5535125732422,
+        "y": 113.59774017333984,
+        "z": 156.36959838867188,
+        "scale": 4.915658950805664
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/path_stoneCircle.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{d62e52f7-dbf4-4417-8038-502e0506b3ac}",
+    "type": "Model",
+    "lastEdited": 1652796440362981,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": 14.26025390625,
+        "y": 0.23120880126953125,
+        "z": 40.47065353393555
+    },
+    "dimensions": {
+        "x": 6.368470191955566,
+        "y": 17.075464248657227,
+        "z": 6.6906418800354
+    },
+    "rotation": {
+        "x": 0.14708173274993896,
+        "y": -0.029678821563720703,
+        "z": -0.9884336590766907,
+        "w": 0.021927237510681152
+    },
+    "created": 1652622347993088,
+    "lastEditedBy": "{a050c3ba-c11b-48bf-a37c-8b6e5d43c95a}",
+    "queryAACube": {
+        "x": 197.28643798828125,
+        "y": 103.86597442626953,
+        "z": 184.50439453125,
+        "scale": 19.413745880126953
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/tree.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{f3680edf-9d4f-4ead-afdb-5461ab3f7a51}",
+    "type": "Model",
+    "lastEdited": 1652796440362346,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(4)",
+    "position": {
+        "x": 31.04138946533203,
+        "y": 17.862342834472656,
+        "z": -2.126955032348633
+    },
+    "dimensions": {
+        "x": 11.980062484741211,
+        "y": 34.81102752685547,
+        "z": 11.980062484741211
+    },
+    "rotation": {
+        "x": 0.19011211395263672,
+        "y": -0.08119326829910278,
+        "z": -0.8731670379638672,
+        "w": 0.4414283037185669
+    },
+    "created": 1651937837580288,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": 158.5310516357422,
+        "y": 76.58873748779297,
+        "z": 139.51145935058594,
+        "scale": 38.71500015258789
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-hull",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_pineDefaultB.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a4cd1ee3-0368-431f-a8ab-30ab27aca93a}",
+    "type": "Shape",
+    "lastEdited": 1652796440362746,
+    "parentID": "{74e130aa-8955-4fd6-8178-b78b8fc00a6b}",
+    "name": "Teleporte (4)",
+    "userData": "{\n    \"destination\": \"hifi://162.240.72.75:40102/1.73043,-0.0453307,-5.0857/0,0.728461,0,0.685087\"\n}",
+    "position": {
+        "x": 0.03475761413574219,
+        "y": 0.31160449981689453,
+        "z": -0.11785316467285156
+    },
+    "dimensions": {
+        "x": 4.151821136474609,
+        "y": 0.07923237979412079,
+        "z": 4.375881671905518
+    },
+    "rotation": {
+        "x": 0.7058060169219971,
+        "y": -0.009903132915496826,
+        "z": 0.005508542060852051,
+        "w": 0.7082780599594116
+    },
+    "created": 1652461286719488,
+    "lastEditedBy": "{8787893b-3af5-4f70-9c0c-432bbfa7d395}",
+    "queryAACube": {
+        "x": 188.24209594726562,
+        "y": 113.85671997070312,
+        "z": 160.1136932373047,
+        "scale": 6.032597541809082
+    },
+    "canCastShadow": false,
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "triggerable": true,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "script": "https://cdn-1.vircadia.com/us-e-1/DomainContent/Tutorial/Scripts/portal.js",
+    "scriptTimestamp": 1651866075136,
+    "color": {
+        "red": 0,
+        "green": 240,
+        "blue": 0
+    },
+    "alpha": 0.6299999952316284,
+    "shape": "Cylinder",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{80879101-a6c4-496f-b8c0-a35e9671ddb4}",
+    "type": "Model",
+    "lastEdited": 1652796440363395,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "position": {
+        "x": 1.548492431640625,
+        "y": 0.02666473388671875,
+        "z": 29.695472717285156
+    },
+    "dimensions": {
+        "x": 22.95977020263672,
+        "y": 21.639053344726562,
+        "z": 19.421493530273438
+    },
+    "rotation": {
+        "x": -0.6092164516448975,
+        "y": -0.0000152587890625,
+        "z": 0.7929961681365967,
+        "w": -0.0000762939453125
+    },
+    "created": 1651855562113024,
+    "lastEditedBy": "{5d1cfffa-b116-4ad5-9c9c-51176cda6a18}",
+    "queryAACube": {
+        "x": 197.23440551757812,
+        "y": 95.25459289550781,
+        "z": 161.5152130126953,
+        "scale": 37.04853439331055
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-compound",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio01.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{4ecb6eaa-f292-467b-9935-dc7f90420cbb}",
+    "type": "Image",
+    "lastEdited": 1652796440365137,
+    "parentID": "{00165cc6-129f-45bc-94f6-50497ebd0675}",
+    "position": {
+        "x": 0.032501220703125,
+        "y": -4.371864318847656,
+        "z": -0.90997314453125
+    },
+    "dimensions": {
+        "x": 2.422250986099243,
+        "y": 2.422250986099243,
+        "z": 0.009999999776482582
+    },
+    "rotation": {
+        "x": -0.0002593994140625,
+        "y": 0.999267578125,
+        "z": -0.0001983642578125,
+        "w": 0.037582993507385254
+    },
+    "created": 1652461689372672,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 235.0961456298828,
+        "y": 109.4638900756836,
+        "z": 150.5005340576172,
+        "scale": 19.1566162109375
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "imageURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/QR%20Code/qr-justica.png",
+    "keepAspectRatio": false,
+    "textures": {
+        "tex.picture": "https://github.com/Clauveira/CoVerso/raw/main/Assets/QR%20Code/qr-justica.png"
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{fee7626d-843e-4f23-85aa-a408f501f89c}",
+    "type": "Model",
+    "lastEdited": 1652796440364156,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": -9.03192138671875,
+        "y": 0.02849578857421875,
+        "z": -33.112709045410156
+    },
+    "dimensions": {
+        "x": 22.403892517089844,
+        "y": 21.115154266357422,
+        "z": 18.951282501220703
+    },
+    "rotation": {
+        "x": -0.8950484395027161,
+        "y": -0.0000457763671875,
+        "z": -0.4460059404373169,
+        "w": -0.0000457763671875
+    },
+    "created": 1652396191121408,
+    "lastEditedBy": "{41960034-fa5b-4de1-899b-85c197bc65b8}",
+    "queryAACube": {
+        "x": 188.36521911621094,
+        "y": 95.70709991455078,
+        "z": 98.95580291748047,
+        "scale": 36.15156173706055
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-compound",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio01.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a5c1cb32-b1d5-4dbe-b493-e9fe3501a6b1}",
+    "type": "Model",
+    "lastEdited": 1652796440363581,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": 26.304107666015625,
+        "y": 0.0583648681640625,
+        "z": 23.814624786376953
+    },
+    "dimensions": {
+        "x": 20.88726806640625,
+        "y": 64.2638168334961,
+        "z": 20.887269973754883
+    },
+    "rotation": {
+        "x": -0.3172808289527893,
+        "y": 0.0000152587890625,
+        "z": -0.9483634829521179,
+        "w": -0.0000457763671875
+    },
+    "created": 1651884418924544,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 155.0349578857422,
+        "y": 78.38276672363281,
+        "z": 146.72067260742188,
+        "scale": 70.72760772705078
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-compound",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio02.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{b4231bfa-f60e-4ac8-b6a1-456720e9be2b}",
+    "type": "Box",
+    "lastEdited": 1652796440364738,
+    "parentID": "{00165cc6-129f-45bc-94f6-50497ebd0675}",
+    "position": {
+        "x": -0.25710296630859375,
+        "y": 6.081352233886719,
+        "z": -0.5924072265625
+    },
+    "dimensions": {
+        "x": 11.37228775024414,
+        "y": 2.266087055206299,
+        "z": 1.1799622774124146
+    },
+    "rotation": {
+        "x": -0.0000762939453125,
+        "y": -0.0004119873046875,
+        "z": -0.0001373291015625,
+        "w": 1
+    },
+    "created": 1652463568420864,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 240.3395233154297,
+        "y": 122.78270721435547,
+        "z": 155.4393768310547,
+        "scale": 11.655744552612305
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 72,
+        "blue": 19
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{9aec2ab1-84a6-4dd0-b968-9d3182d92a4f}",
+    "type": "Model",
+    "lastEdited": 1652796440363762,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(2)",
+    "position": {
+        "x": 22.664451599121094,
+        "y": -0.1566009521484375,
+        "z": -13.446146011352539
+    },
+    "dimensions": {
+        "x": 30.365482330322266,
+        "y": 28.10991859436035,
+        "z": 18.160127639770508
+    },
+    "rotation": {
+        "x": 0.461814284324646,
+        "y": 0.0000762939453125,
+        "z": -0.8869611620903015,
+        "w": -0.0001068115234375
+    },
+    "created": 1651926831726592,
+    "lastEditedBy": "{26f622fc-5f2d-431b-91fe-2608f10d0723}",
+    "queryAACube": {
+        "x": 159.7685089111328,
+        "y": 91.3705062866211,
+        "z": 122.92463684082031,
+        "scale": 45.188716888427734
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/portico.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{35efdf79-8a3b-49f0-bef8-7f78cef3fc42}",
+    "type": "Model",
+    "lastEdited": 1652796440364544,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": -5.494415283203125,
+        "y": 0.23668670654296875,
+        "z": -15.23590087890625
+    },
+    "dimensions": {
+        "x": 6.368470191955566,
+        "y": 17.075464248657227,
+        "z": 6.6906418800354
+    },
+    "rotation": {
+        "x": 0.14671552181243896,
+        "y": -0.029739856719970703,
+        "z": -0.9884946942329407,
+        "w": 0.021591544151306152
+    },
+    "created": 1652622884864000,
+    "lastEditedBy": "{46a3f7a6-a24f-4c9e-85ae-ccdc5ade57b8}",
+    "queryAACube": {
+        "x": 198.88583374023438,
+        "y": 103.86614990234375,
+        "z": 125.42066192626953,
+        "scale": 19.413745880126953
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/tree.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{26b00c01-db5f-421e-8412-4a5a302fa4d9}",
+    "type": "Model",
+    "lastEdited": 1652796440363953,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": -1.1772689819335938,
+        "y": 0.16767120361328125,
+        "z": -44.837928771972656
+    },
+    "dimensions": {
+        "x": 12.421618461608887,
+        "y": 27.2059383392334,
+        "z": 11.254844665527344
+    },
+    "rotation": {
+        "x": -0.35841917991638184,
+        "y": 0.07029831409454346,
+        "z": -0.9264820218086243,
+        "w": 0.09071493148803711
+    },
+    "created": 1651937703362560,
+    "lastEditedBy": "{e5b00d74-f4d3-41c1-98a7-68ea2b2b7115}",
+    "queryAACube": {
+        "x": 179.37474060058594,
+        "y": 97.66680145263672,
+        "z": 92.32470703125,
+        "scale": 31.95514488220215
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/nature/tree_thin.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{9c04e58e-0da7-4403-b731-db63d0ac0252}",
+    "type": "Light",
+    "lastEdited": 1652796440364941,
+    "parentID": "{4ecb6eaa-f292-467b-9935-dc7f90420cbb}",
+    "position": {
+        "x": -0.0211181640625,
+        "y": 0.8858795166015625,
+        "z": 1.538055419921875
+    },
+    "dimensions": {
+        "x": 11.060075759887695,
+        "y": 11.060075759887695,
+        "z": 11.060075759887695
+    },
+    "rotation": {
+        "x": -0.0000152587890625,
+        "y": -0.9061570167541504,
+        "z": 0.0000152587890625,
+        "w": -0.42299532890319824
+    },
+    "created": 1652463836856320,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 235.07424926757812,
+        "y": 109.46369934082031,
+        "z": 150.55056762695312,
+        "scale": 19.156612396240234
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "intensity": 0.800000011920929,
+    "exponent": 1,
+    "cutoff": 75,
+    "falloffRadius": 48.70000076293945,
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{00165cc6-129f-45bc-94f6-50497ebd0675}",
+    "type": "Box",
+    "lastEdited": 1652796440365873,
+    "parentID": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "name": "(2)",
+    "position": {
+        "x": -3.987701416015625,
+        "y": -6.308418273925781,
+        "z": 7.329498291015625
+    },
+    "dimensions": {
+        "x": 2.234575033187866,
+        "y": 20.761985778808594,
+        "z": 1.5662682056427002
+    },
+    "rotation": {
+        "x": -0.30424964427948,
+        "y": 0.0165865421295166,
+        "z": 0.9509270191192627,
+        "w": 0.053727030754089355
+    },
+    "created": 1652463568420864,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 235.0961456298828,
+        "y": 109.4638900756836,
+        "z": 150.5005340576172,
+        "scale": 24.97461700439453
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "color": {
+        "red": 125,
+        "green": 72,
+        "blue": 19
+    },
+    "shape": "Cube",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{150ec523-af9d-4a45-a0b6-d09d5443c93a}",
+    "type": "Model",
+    "lastEdited": 1652796440365318,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": -27.525405883789062,
+        "y": 0.6284103393554688,
+        "z": -16.120986938476562
+    },
+    "dimensions": {
+        "x": 18.455224990844727,
+        "y": 49.91230010986328,
+        "z": 18.45522689819336
+    },
+    "rotation": {
+        "x": 0.11274886131286621,
+        "y": -0.0000152587890625,
+        "z": -0.9936522245407104,
+        "w": -0.0001068115234375
+    },
+    "created": 1651933811048448,
+    "lastEditedBy": "{4e380661-9a63-45ab-b4e1-430a897246c7}",
+    "queryAACube": {
+        "x": 201.1112823486328,
+        "y": 85.02023315429688,
+        "z": 99.32533264160156,
+        "scale": 56.32431411743164
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "simple-compound",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/RC/predio02.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{389051f6-38ae-48f2-b6e3-798aa6952990}",
+    "type": "Model",
+    "lastEdited": 1652796440360318,
+    "name": "(2)",
+    "position": {
+        "x": 55.22564697265625,
+        "y": 0,
+        "z": 0
+    },
+    "dimensions": {
+        "x": 4.9294562339782715,
+        "y": 12.63569450378418,
+        "z": 5.178830146789551
+    },
+    "rotation": {
+        "x": -0.08735787868499756,
+        "y": -0.0000457763671875,
+        "z": -0.0000457763671875,
+        "w": 0.99615478515625
+    },
+    "created": 1652621140033536,
+    "lastEditedBy": "{a050c3ba-c11b-48bf-a37c-8b6e5d43c95a}",
+    "queryAACube": {
+        "x": 47.96650314331055,
+        "y": -7.259142875671387,
+        "z": -7.259142875671387,
+        "scale": 14.518285751342773
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/treeFall.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{a0aaaa12-73b8-4b2f-a935-af2c276e7cf3}",
+    "type": "Image",
+    "lastEdited": 1652796440364368,
+    "name": "(2)",
+    "position": {
+        "x": 43.02656555175781,
+        "y": 4.990592956542969,
+        "z": 1.7932281494140625
+    },
+    "dimensions": {
+        "x": 7.913028240203857,
+        "y": 7.913028240203857,
+        "z": 0.009999999776482582
+    },
+    "rotation": {
+        "x": 0.00024927264894358814,
+        "y": -0.9951332807540894,
+        "z": -0.00033676676684990525,
+        "w": 0.09853766858577728
+    },
+    "created": 1652461689372672,
+    "lastEditedBy": "{a050c3ba-c11b-48bf-a37c-8b6e5d43c95a}",
+    "queryAACube": {
+        "x": 26.240489959716797,
+        "y": -11.795482635498047,
+        "z": -14.992847442626953,
+        "scale": 33.57215118408203
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": 0,
+        "y": 1.5009829998016357,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "imageURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Icones/Justica.gif",
+    "keepAspectRatio": false,
+    "textures": {
+        "tex.picture": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Icones/Justica.gif"
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{cba8cbf7-5f66-43d9-9511-f35af1fe31dd}",
+    "type": "Model",
+    "lastEdited": 1652796440365499,
+    "position": {
+        "x": 64.12936401367188,
+        "y": 0.0169830322265625,
+        "z": 17.250030517578125
+    },
+    "dimensions": {
+        "x": 8.816100120544434,
+        "y": 13.86673641204834,
+        "z": 7.926153659820557
+    },
+    "rotation": {
+        "x": -0.061112403869628906,
+        "y": -0.0000152587890625,
+        "z": -0.0000457763671875,
+        "w": 0.99810791015625
+    },
+    "created": 1652622079557632,
+    "lastEditedBy": "{a050c3ba-c11b-48bf-a37c-8b6e5d43c95a}",
+    "queryAACube": {
+        "x": 55.00749588012695,
+        "y": -9.10488510131836,
+        "z": 8.128162384033203,
+        "scale": 18.243736267089844
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/nature/tree_detailed.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "type": "Model",
+    "lastEdited": 1652796440368024,
+    "name": "Ilha01",
+    "position": {
+        "x": 16.688766479492188,
+        "y": 0.3554229736328125,
+        "z": 12.295867919921875
+    },
+    "dimensions": {
+        "x": 90.79173278808594,
+        "y": 52.44340896606445,
+        "z": 100.1072998046875
+    },
+    "rotation": {
+        "x": 0.15620660781860352,
+        "y": -0.0000457763671875,
+        "z": 0.9877011775970459,
+        "w": -0.0000152587890625
+    },
+    "created": 1651856501637120,
+    "lastEditedBy": "{5d1cfffa-b116-4ad5-9c9c-51176cda6a18}",
+    "queryAACube": {
+        "x": -135.10545349121094,
+        "y": -197.85629272460938,
+        "z": -191.5380859375,
+        "scale": 685.71240234375
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/survival/rockB2.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{0837cfcb-b612-45ce-a121-3d79ddb51ab7}",
+    "type": "Model",
+    "lastEdited": 1652796440365677,
+    "name": "(6)",
+    "position": {
+        "x": 48.90559387207031,
+        "y": 2.3660202026367188,
+        "z": 17.591278076171875
+    },
+    "dimensions": {
+        "x": 17.445274353027344,
+        "y": 16.272361755371094,
+        "z": 25.00566291809082
+    },
+    "rotation": {
+        "x": -0.26295870542526245,
+        "y": 0.015213251113891602,
+        "z": -0.963164746761322,
+        "w": 0.054184794425964355
+    },
+    "created": 1652459407671296,
+    "lastEditedBy": "{05c8060f-678e-4e5d-890a-9f307673d97a}",
+    "queryAACube": {
+        "x": 31.625471115112305,
+        "y": -14.914102554321289,
+        "z": 0.3111553192138672,
+        "scale": 34.560245513916016
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://github.com/Clauveira/CoVerso/raw/main/Assets/Modelos3D/kenney/survival/rockC10.glb",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{74e130aa-8955-4fd6-8178-b78b8fc00a6b}",
+    "type": "Model",
+    "lastEdited": 1652796440362530,
+    "name": "(4)",
+    "position": {
+        "x": 0,
+        "y": 3.1086883544921875,
+        "z": 24.089981079101562
+    },
+    "dimensions": {
+        "x": 5.752474308013916,
+        "y": 5.827330589294434,
+        "z": 2.876237154006958
+    },
+    "rotation": {
+        "x": 0.0000762939453125,
+        "y": -0.8484779000282288,
+        "z": 0.0001373291015625,
+        "w": -0.529259204864502
+    },
+    "created": 1652461286719488,
+    "lastEditedBy": "{5d1cfffa-b116-4ad5-9c9c-51176cda6a18}",
+    "queryAACube": {
+        "x": -4.339397430419922,
+        "y": -1.2307090759277344,
+        "z": 19.75058364868164,
+        "scale": 8.678794860839844
+    },
+    "grab": {
+        "grabbable": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "shapeType": "static-mesh",
+    "modelURL": "https://raw.githubusercontent.com/Clauveira/CoVerso/main/Assets/Modelos3D/kenney/space/gate_complex.obj",
+    "blendshapeCoefficients": "{\n}\n",
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{cecdbaee-c308-4169-b458-db9345a72db5}",
+    "type": "Model",
+    "lastEdited": 1652796440369738,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "name": "(3)",
+    "position": {
+        "x": -0.850372314453125,
+        "y": -14.153617858886719,
+        "z": -0.8798828125
+    },
+    "dimensions": {
+        "x": 156.58058166503906,
+        "y": 22.477821350097656,
+        "z": 164.99053955078125
+    },
+    "rotation": {
+        "x": -0.8028665781021118,
+        "y": -0.0005840488593094051,
+        "z": 0.5961583852767944,
+        "w": 0.00015631705173291266
+    },
+    "created": 1651934213701632,
+    "lastEditedBy": "{1fc915fd-fab6-41d0-a6b2-c07c85110b7e}",
+    "queryAACube": {
+        "x": -134.2508544921875,
+        "y": -214.8956298828125,
+        "z": -192.6388397216797,
+        "scale": 685.71240234375
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": 0,
+        "y": -0.01745299994945526,
+        "z": 0
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/clouds-smooth-low-poly-ring/baked/clouds-smooth-low-poly-ring.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false,
+        "loop": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+},
+    {
+    "id": "{e010d1ce-1ca8-4880-93fb-3c07e93bfea2}",
+    "type": "Model",
+    "lastEdited": 1652796440368223,
+    "parentID": "{361e6bef-e1ba-47ac-83d9-f212bdc4db3a}",
+    "position": {
+        "x": 0.100433349609375,
+        "y": 39.92835235595703,
+        "z": -1.4819908142089844
+    },
+    "dimensions": {
+        "x": 90.15144348144531,
+        "y": 12.941630363464355,
+        "z": 94.99349212646484
+    },
+    "rotation": {
+        "x": 0.07332421094179153,
+        "y": -0.0004684310406446457,
+        "z": 0.9973076581954956,
+        "w": 0.0008846604032441974
+    },
+    "created": 1651871265587200,
+    "lastEditedBy": "{4d7da8e4-4eaa-4793-a728-fa7a69bc4292}",
+    "queryAACube": {
+        "x": 10.11627197265625,
+        "y": -123.51625061035156,
+        "z": -47.466949462890625,
+        "scale": 394.7996520996094
+    },
+    "grab": {
+        "grabbable": false,
+        "grabFollowsController": false,
+        "equippableLeftRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        },
+        "equippableRightRotation": {
+            "x": -0.0000152587890625,
+            "y": -0.0000152587890625,
+            "z": -0.0000152587890625,
+            "w": 1
+        }
+    },
+    "angularVelocity": {
+        "x": -6.055988706066273e-7,
+        "y": 0.017453014850616455,
+        "z": 4.479126403111877e-7
+    },
+    "damping": 0,
+    "angularDamping": 0,
+    "collisionless": true,
+    "ignoreForCollisions": true,
+    "modelURL": "https://cdn-1.vircadia.com/us-e-1/Bazaar/Worlds/HQ-HiFi/content/clouds-smooth-low-poly-ring/baked/clouds-smooth-low-poly-ring.baked.fst",
+    "blendshapeCoefficients": "{\n}\n",
+    "useOriginalPivot": true,
+    "animation": {
+        "allowTranslation": false,
+        "loop": false
+    },
+    "clientOnly": false,
+    "avatarEntity": false,
+    "localEntity": false,
+    "faceCamera": false,
+    "isFacingAvatar": false
+}
+    ],
+  "Id": "{263ea788-7798-4766-95c7-3c66c6b108a1}",
+  "Version": 133
+}
